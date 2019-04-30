@@ -1,0 +1,308 @@
+name,college,position,height_in,weight_lbs,40yards,benchpress,vert_leap_in,broad_jump_in,shuttle,3cone
+"Austin, Blessuan",Rutgers,CB,73,198,,15,,,,
+"Baity, Derrick",Kentucky,CB,74,197,,10,38.5,127,4.31,7.06
+"Baker, Deandre",Georgia,CB,71,193,4.52,14,,118,,
+"Ballentine, Corey",Washburn,CB,72,204,4.47,15,39.5,135,4.14,6.82
+"Boyd, Kris",Texas,CB,71,201,4.45,19,36.5,127,4.08,6.94
+"Brown, Jordan",South Dakota State,CB,72,201,4.51,13,39.5,128,,
+"Brown, Blace",Troy,CB,72,194,4.75,14,,126,4.22,7.33
+"Bunting, Sean",C. Michigan,CB,72,195,4.42,14,41.5,126,,
+"Cheevers, Hamp",Boston College,CB,69,169,4.52,8,39,122,4.25,6.96
+"Crawford, Xavier",C. Michigan,CB,71,187,4.48,11,37.5,,,
+"Davis, Davante",Texas,CB,74,202,4.57,14,37,125,4.15,6.76
+"Dean, Jamel",Auburn,CB,73,206,4.3,16,41,130,4.19,7.02
+"Fenton, Rashad",South Carolina,CB,71,193,4.52,12,34,117,4.25,
+"Fields, Mark",Clemson,CB,70,192,4.37,18,,,,
+"Hartage, Montre",Northwestern,CB,71,190,4.68,9,34.5,123,4.08,6.95
+"Holder, Alijah",Stanford,CB,73,191,4.6,9,36,121,4.15,6.7
+"Johnson, Lonnie",Kentucky,CB,74,213,4.52,15,38,129,4.1,7.01
+"Johnson, Isaiah",Houston,CB,74,208,4.4,,36.5,133,4.06,6.81
+"Layne, Justin",Michigan St.,CB,74,192,4.5,,37.5,134,4.09,6.9
+"Long, David",Michigan,CB,71,196,4.45,15,39.5,120,3.97,6.45
+"Love, Julian",Notre Dame,CB,71,195,4.54,14,36,121,4.1,6.72
+"Marshall, Iman",USC,CB,73,207,4.53,16,,,,
+"Miller, Jordan",Washington,CB,73,186,4.49,6,37,125,,
+"Mullen, Trayvon",Clemson,CB,73,199,4.46,,34.5,123,,
+"Murphy, Byron",Washington,CB,71,190,4.55,14,36.5,120,,
+"Oruwariye, Amani",Penn St.,CB,74,205,4.47,17,36.5,120,4.16,6.82
+"Peters, Jamal",Miss. State,CB,74,218,4.63,,,,,
+"Pulley, Ryan",Arkansas,CB,71,209,4.61,11,31,111,,
+"Smith, Saivion",Alabama,CB,73,199,,11,33,121,4.37,7.09
+"Thomas, Derrek",Baylor,CB,75,189,4.44,8,39.5,131,,
+"Webster, Ken",Ole Miss,CB,71,203,4.43,18,43,133,4.14,6.85
+"Williams, Greedy",LSU,CB,74,185,4.37,,,,,
+"Williams, Joejuan",Vanderbilt,CB,76,211,4.64,17,,,,
+"Ya-Sin, Rock",Temple,CB,72,192,4.51,18,39.5,120,4.31,7.31
+"Jackson, Mike",,DB,73,,4.45,13,40.5,130,4.12,7.12
+"Allen, Josh",Kentucky,DL,77,262,4.63,24,32,112,4.36,7.34
+"Banogu, Ben",TCU,DL,75,250,4.62,23,40,134,4.27,7.02
+"Bosa, Nick",Ohio St.,DL,76,266,4.79,29,33.5,116,4.14,7.1
+"Brailford, Jordan",Oklahoma St.,DL,75,252,4.65,22,37.5,126,,
+"Burns, Brian",Florida St.,DL,77,249,4.53,,36,129,,7.01
+"Carney, Malik",North Carolina,DL,74,251,4.73,25,33,113,,7.4
+"Crosby, Maxx",E. Michigan,DL,77,255,4.66,,36,122,4.13,6.89
+"Davis, Jamal",Akron,DL,75,243,4.6,19,39,122,4.44,7
+"Ferrell, Clelin",Clemson,DL,76,264,,25,,,4.4,7.26
+"Granderson, Carl",Wyoming,DL,77,254,4.79,,35,119,4.41,7.44
+"Green, Gerri",Miss. State,DL,76,252,4.63,24,35,114,4.42,7.27
+"Gustin, Porter",USC,DL,76,255,4.69,31,35.5,119,,
+"Hollins, Justin",Oregon,DL,77,248,4.5,25,36.5,119,4.4,7.06
+"Jelks, Jalen",Oregon,DL,77,256,4.92,19,32.5,113,4.59,7.22
+"Johnson, Darryl",,DL,78,,,20,,,,
+"Miller, Shareef",Penn St.,DL,76,254,4.69,16,29.5,,4.45,
+"Miller, Christian",Alabama,DL,75,247,,,38.5,118,,
+"Polite, Jachai",Florida,DL,75,258,4.84,,32,,,
+"Ray, Wyatt",Boston College,DL,75,257,4.83,25,34,118,4.31,7.34
+"Smith, Sutton",N. Illinois,DL,72,233,4.69,25,31.5,118,4.32,6.75
+"Sweat, Montez",Miss. State,DL,78,260,4.41,21,36,125,4.29,7
+"Winovich, Chase",Michigan,DL,75,256,4.59,18,30.5,116,4.11,6.94
+"Ximines, Oshane",Old Dominion,DL,75,253,4.78,24,34,118,4.57,7.13
+"Beckner, Terry",,DL,76,,5.19,28,24.5,98,4.82,7.97
+"Allen, Zach",Boston College,DL,76,281,5,23,31.5,116,4.04,6.88
+"Buggs, Isaiah",Alabama,DL,75,306,5.15,20,24.5,96,4.83,8.01
+"Christmas, Demarcus",Florida St.,DL,75,294,5.08,22,25.5,101,5.07,8.13
+"Collier, L.J.",TCU,DL,74,283,4.91,25,30,118,4.78,7.71
+"Cominsky, John",University of Charleston,DL,77,286,4.69,22,33.5,116,4.38,7.03
+"Cowart, Byron",Auburn,DL,75,298,5.16,26,30,111,,
+"Gaines, Greg",Washington,DL,73,312,5.16,30,31,109,,
+"Gary, Rashan",Michigan,DL,76,277,4.58,26,38,120,4.29,7.26
+"Givens, Kevin",Penn St.,DL,73,285,5.08,32,31,115,4.62,7.63
+"Hill, Trysten",UCF,DL,75,308,5.04,28,35,115,4.38,7.7
+"Huggins, Albert",Clemson,DL,75,305,5.12,35,25.5,101,4.84,7.84
+"Jackson, Joe",Miami (Fla.),DL,76,275,,22,27,109,,
+"Jefferson, CeCe",,DL,73,,5.02,17,30.5,108,4.53,7.5
+"Johnson, Anthony",FIU,DL,75,291,,18,32.5,122,,7.12
+"Jones, Dre'Mont",Ohio St.,DL,75,281,5.12,,31.5,110,4.53,7.71
+"Keke, Kingsley",Texas A&M,DL,75,288,4.95,,31.5,111,4.46,7.55
+"Lawrence, Dexter",Clemson,DL,76,342,5.05,36,,,,
+"Ledbetter, Jonathan",Georgia,DL,76,280,5.14,22,26.5,108,,
+"Mack, Daylon",Texas A&M,DL,73,336,5.1,30,27,102,4.95,8.02
+"Nelson, Anthony",Iowa,DL,79,271,4.82,18,35.5,118,4.23,6.95
+"Oliver, Ed",Houston,DL,74,287,,32,36,120,,
+"Omenihu, Charles",Texas,DL,77,280,4.92,,36.5,115,4.36,7.48
+"Russell, Dontavius",Auburn,DL,75,319,5.15,24,,,4.77,7.81
+"Saunders, Khalen",Western Illinois,DL,72,324,5.01,27,30.5,101,4.62,7.57
+"Slayton, Chris",Syracuse,DL,76,307,5.13,28,29,101,4.73,
+"Tillery, Jerry",Notre Dame,DL,78,295,4.93,23,32,115,4.33,7.45
+"Watts, Armon",Arkansas,DL,77,300,5.23,,,,,
+"Wilkins, Christian",Clemson,DL,75,315,5.04,28,29.5,107,4.55,
+"Williams, Quinnen",Alabama,DL,75,303,4.83,,30.5,112,,
+"Wise, Daniel",Kansas,DL,75,281,5.28,22,27.5,112,4.37,7.53
+"Wren, Renell",Arizona St.,DL,77,318,5.01,30,32,118,4.53,7.65
+"Al-Shaair, Azeez",FAU,LB,73,234,,16,,,,
+"Alaka, Otaro",Texas A&M,LB,75,239,4.82,20,36,131,,
+"Allen, Dakota",Texas Tech,LB,73,232,4.77,28,,118,4.23,7.15
+"Allen-Williams, Bryson",South Carolina,LB,73,236,4.88,14,,,,7.4
+"Allison, Jeff",Fresno St.,LB,71,228,4.82,12,31,115,4.45,7.2
+"Barton, Cody",Utah,LB,74,237,4.64,25,27,109,4.66,7.85
+"Burr-Kirven, Ben",Washington,LB,72,230,4.56,21,34.5,121,4.09,6.85
+"Bush, Devin",Michigan,LB,71,234,4.43,21,40.5,124,4.23,6.93
+"Cashman, Blake",Minnesota,LB,73,237,4.5,18,37.5,124,4.12,6.95
+"Connelly, Ryan",Wisconsin,LB,74,242,4.66,,34.5,118,4.31,7.09
+"Davis, Deshaun",Auburn,LB,71,234,,25,31,111,4.38,
+"Dodson, Tyrel",Texas A&M,LB,72,237,4.6,24,,118,,
+"Edwards, T.J.",Wisconsin,LB,72,230,,16,,,,
+"Egbule, Emeke",Houston,LB,74,245,4.65,20,33,119,4.38,7.38
+"Giles-Harris, Joe",Duke,LB,74,234,4.75,17,29.5,111,,
+"Greenlaw, Dre",Arkansas,LB,71,237,,24,33,117,,
+"Hall, Terez",Missouri,LB,73,230,,20,,,,
+"Hanks, Terrill",New Mexico St.,LB,74,242,4.98,21,35.5,118,,
+"Johnson, Gary",Texas,LB,72,226,4.43,16,33.5,121,4.57,7.15
+"Jones, Jordan",Kentucky,LB,74,234,4.62,23,32.5,123,4.37,
+"Joseph, Kendall",Clemson,LB,72,233,,25,,,,
+"Long, David",West Virginia,LB,71,227,,18,,,,
+"Okereke, Bobby",Stanford,LB,73,239,4.58,,33.5,122,4.26,7.25
+"Pratt, Germaine",NC State,LB,74,240,4.57,24,32.5,116,,
+"Smith, Cameron",USC,LB,74,238,4.69,15,39,123,4.23,
+"Summers, Ty",TCU,LB,73,241,4.51,27,36,123,,
+"Takitaki, Sione",BYU,LB,73,238,4.63,24,37,125,4.28,7.21
+"Tranquill, Drue",Notre Dame,LB,74,234,4.57,31,37.5,122,4.14,6.94
+"Van Ginkel, Andrew",,LB,75,,,17,38,123,4.14,6.89
+"White, Devin",LSU,LB,72,237,4.42,22,39.5,118,4.17,7.07
+"Wilson, Mack",Alabama,LB,73,240,,,32,117,,
+"Adams, Paul",Missouri,OL,78,317,5.18,16,27,103,4.74,7.68
+"Bailey, Zack",South Carolina,OL,77,299,,24,28,103,,
+"Barton, Jackson",Utah,OL,79,310,5.18,30,32.5,116,4.03,6.9
+"Bates, Ryan",Penn St.,OL,76,306,5.09,28,27,102,4.53,7.45
+"Benzschawel, Beau",Wisconsin,OL,78,309,5.24,20,,,,
+"Bradbury, Garrett",NC State,OL,75,306,4.92,34,31,104,4.53,7.41
+"Cajuste, Yodny",West Virginia,OL,77,312,,32,,,,
+"Daley, Dennis",South Carolina,OL,77,317,5.23,20,26.5,103,4.92,7.95
+"Davis, Nate",Charlotte,OL,75,316,5.23,23,26,107,4.83,7.94
+"Deiter, Michael",Wisconsin,OL,77,309,5.23,21,28,105,4.81,7.88
+"Dillard, Andre",Washington St.,OL,77,315,4.96,24,29,118,4.4,7.44
+"Edoga, Chuma",USC,OL,75,308,5.19,21,,,,
+"Edwards, David",Wisconsin,OL,78,308,5.28,,25.5,99,4.77,7.69
+"Evans, Bobby",Oklahoma,OL,76,312,5.2,22,,,,
+"Ford, Cody",Oklahoma,OL,76,329,5.21,19,28.5,104,4.87,8.27
+"Froholdt, Hjalte",Arkansas,OL,77,306,5.2,31,27.5,105,4.54,7.51
+"Gray, Derwin",Maryland,OL,76,320,5.26,26,,90,,
+"Haynes, Phil",Wake Forest,OL,76,322,5.2,33,31,108,4.95,7.76
+"Herbig, Nate",Stanford,OL,75,335,5.41,29,24,90,5.04,8.15
+"Howard, Tytus",Alabama State,OL,77,322,5.05,21,29.5,103,4.87,8.34
+"Hyatt, Mitch",Clemson,OL,77,303,,28,25.5,102,4.52,7.72
+"James, Andre",UCLA,OL,76,299,5.32,21,29,105,4.84,8
+"Jenkins, Elgton",Miss. State,OL,76,310,,29,28,109,4.62,7.77
+"Johnson, Devon",Ferris State,OL,79,338,5.16,26,27.5,89,5.28,8.34
+"Jones, Tyler",NC State,OL,75,306,,23,31.5,111,4.82,7.75
+"Jordan, Michael",Ohio St.,OL,78,312,5.27,19,32.5,116,4.71,7.71
+"Lindstrom, Chris",Boston College,OL,76,308,4.91,25,30.5,117,4.54,7.61
+"Little, Greg",Ole Miss,OL,77,310,5.33,,25,113,4.74,
+"McCoy, Erik",Texas A&M,OL,76,303,4.89,29,31,107,4.62,8.28
+"McGary, Kaleb",Washington,OL,79,317,5.05,23,33.5,111,4.58,7.66
+"McGovern, Connor",Penn St.,OL,77,308,,28,,112,4.57,7.66
+"Miles, Joshua",Morgan State,OL,77,314,5.32,,36,109,4.75,8.07
+"Nijman, Yosh",,OL,79,,,27,,114,4.5,8.07
+"Opeta, Iosua",Weber State,OL,76,301,5.02,39,33,112,4.94,8.06
+"Patterson, Javon",Ole Miss,OL,75,307,5.13,27,27.5,98,4.78,7.72
+"Pierschbacher, Ross",Alabama,OL,76,307,5.2,20,22.5,,4.7,7.83
+"Pipkins, Trey",Sioux Falls,OL,78,309,5.12,16,33.5,114,4.7,7.61
+"Pope, Ryan",San Diego St.,OL,79,320,,25,,,,
+"Powers, Ben",Oklahoma,OL,76,307,,21,,,,
+"Prince, Isaiah",Ohio St.,OL,78,305,5.09,23,27,115,5.02,7.9
+"Risner, Dalton",Kansas St.,OL,77,312,5.3,23,28.5,110,4.52,7.69
+"Roemer, Tyler",San Diego St.,OL,78,312,5.21,18,30.5,108,4.76,7.75
+"Samia, Dru",Oklahoma,OL,77,305,5.29,28,27.5,101,4.7,7.89
+"Scharping, Max",N. Illinois,OL,78,327,,27,28,108,4.69,7.77
+"Sweet, William",North Carolina,OL,78,313,5.27,23,30.5,111,5,8.01
+"Tate, Trevon",Memphis,OL,74,293,,22,,,,
+"Taylor, Jawaan",Florida,OL,77,312,,24,,,,
+"Udoh, Oli",,OL,77,,5.05,26,28.5,105,5.05,7.88
+"Williams, Jonah",Alabama,OL,76,302,5.12,23,28,100,4.79,8.01
+"Calhoun, Shaq",,OL,74,,5.07,26,28.5,105,4.62,7.46
+"Bailey, Jake",Stanford,P,73,200,4.72,,33,117,,
+"Fox, Jack",Rice,P,74,213,4.73,,27.5,114,,
+"Wishnowsky, Mitch",Utah,P,74,218,4.63,,32.5,117,,
+"Browning, Jake",Washington,QB,74,211,4.74,,29,112,4.44,7.19
+"Finley, Ryan",NC State,QB,76,213,4.73,,30.5,116,4.2,7.2
+"Fitzgerald, Nick",Miss. State,QB,77,226,4.64,,29.5,115,,
+"Grier, Will",West Virginia,QB,74,217,4.84,,34,112,4.28,7.09
+"Haskins, Dwayne",Ohio St.,QB,75,231,5.04,,28.5,,,
+"Jackson, Tyree",Buffalo,QB,79,249,4.59,,34.5,120,4.28,7.09
+"Jones, Daniel",Duke,QB,77,221,4.81,,33.5,120,4.41,7
+"Lock, Drew",Missouri,QB,76,228,4.69,,31,112,4.12,7.03
+"McSorley, Trace",Penn St.,QB,72,202,4.57,,33,115,4.12,7.09
+"Minshew, Gardner",Washington St.,QB,73,225,4.97,,33.5,116,4.45,7.14
+"Rypien, Brett",Boise St.,QB,74,210,4.91,,33,116,4.29,7.1
+"Shurmur, Kyle",Vanderbilt,QB,76,230,4.91,,29.5,106,4.53,7.51
+"Stick, Easton",North Dakota State,QB,73,224,4.62,,33.5,118,4.05,6.65
+"Stidham, Jarrett",Auburn,QB,74,218,4.81,,31,110,4.33,7.28
+"Ta'amu, Jordan",Ole Miss,QB,75,221,4.77,,27.5,109,4.36,7.06
+"Anderson, Rodney",Oklahoma,RB,72,224,,25,,,,
+"Armstead, Ryquell",Temple,RB,71,220,4.45,22,30,114,4.29,7.02
+"Barnes, Alex",Kansas St.,RB,72,226,4.59,34,38.5,126,4.1,6.95
+"Brossette, Nick",LSU,RB,71,209,4.72,15,35.5,118,4.44,7.38
+"Gaskin, Myles",Washington,RB,69,205,4.58,24,35.5,118,4.27,7.19
+"Harris, Damien",Alabama,RB,70,216,4.57,16,37,121,,
+"Henderson, Darrell",Memphis,RB,68,208,4.49,22,33.5,121,,
+"Higdon, Karan",Michigan,RB,69,206,4.49,21,34,123,,
+"Hill, Justice",Oklahoma St.,RB,70,198,4.4,21,40,130,,
+"Holyfield, Elijah",Georgia,RB,70,217,4.78,26,29.5,118,,
+"Homer, Travis",Miami (Fla.),RB,70,201,4.48,17,39.5,130,4.31,7.07
+"Love, Bryce",Stanford,RB,69,200,,18,,,,
+"Mattison, Alexander",Boise St.,RB,71,221,4.67,22,35,127,4.29,7.13
+"Montgomery, David",Iowa St.,RB,70,222,4.63,15,28.5,121,,
+"Moore, Jalin",App. St.,RB,70,212,,27,,,,
+"Ollison, Qadree",Pittsburgh,RB,73,228,4.58,19,29.5,114,4.31,7.53
+"Pollard, Tony",Memphis,RB,72,210,4.52,13,35,121,,
+"Sanders, Miles",Penn St.,RB,71,211,4.49,20,36,124,4.19,6.89
+"Scarlett, Jordan",Florida,RB,71,208,4.47,21,30,116,4.63,7.37
+"Scott, LJ",Michigan St.,RB,72,227,,21,33,120,4.34,7.27
+"Singletary, Devin",FAU,RB,67,203,4.66,15,35,117,4.4,7.32
+"Snell, Benny",Kentucky,RB,70,224,4.66,16,29.5,119,4.33,7.07
+"Weber, Mike",Ohio St.,RB,70,211,4.47,22,33.5,,,
+"Williams, Dexter",Notre Dame,RB,71,212,4.57,17,36,130,4.16,7
+"Williams, Trayveon",Texas A&M,RB,68,206,4.51,19,33,121,4.44,7.44
+"Williams, James",Washington St.,RB,69,197,4.58,,36.5,118,4.25,7.01
+"Ingold, Alec",Wisconsin,RB,73,242,4.89,16,34,116,4.32,7.35
+"Abram, Johnathan",Miss. State,S,71,215,4.45,,,116,,
+"Amadi, Ugo",,S,69,,4.51,18,32.5,115,4.19,7.21
+"Battle, John",LSU,S,72,201,4.67,,29.5,120,4.33,7.09
+"Bell, Mike",Fresno St.,S,75,210,4.83,10,30,118,4.46,7.1
+"Blair, Marquise",Utah,S,73,195,4.48,,35,125,,
+"Crawford, Jonathan",Indiana,S,73,205,,16,31.5,115,,
+"Denis, Lukas",Boston College,S,71,190,4.64,16,33.5,116,4.09,6.89
+"Dixon, D'Cota",Wisconsin,S,70,204,4.81,20,33.5,119,,
+"Gant, Malik",Marshall,S,72,209,4.63,17,34.5,114,4.3,7.45
+"Gardner-Johnson, Chauncey",Florida,S,71,210,4.48,17,36,117,4.2,7.03
+"Hampton, Saquan",Rutgers,S,73,206,4.48,14,,125,,
+"Harris, Will",Boston College,S,73,207,4.41,20,36.5,123,4.12,6.91
+"Hooker, Amani",Iowa,S,71,210,4.48,14,37,123,4.1,6.81
+"Johnson, Jaquan",Miami (Fla.),S,70,191,4.69,18,33,121,,
+"McLaurin, Mark",Miss. State,S,73,212,4.77,12,36,,4.46,
+"Rapp, Taylor",Washington,S,72,208,,17,35,115,3.99,6.82
+"Redwine, Sheldrick",Miami (Fla.),S,72,196,4.44,,39,130,4.14,
+"Savage, Darnell",,S,71,,4.36,11,39.5,126,4.14,7.03
+"Tell, Marvell",USC,S,74,198,,,42,136,4.01,6.63
+"Thornhill, Juan",Virginia,S,72,205,4.42,21,44,141,,
+"West, Darius",Kentucky,S,71,208,4.39,19,33.5,113,,
+"Willis, Khari",Michigan St.,S,71,213,4.52,22,34.5,118,,
+"Wilson, Donovan",Texas A&M,S,72,199,,18,36,127,,
+"Wingard, Andrew",Wyoming,S,72,209,4.56,9,36.5,121,4.2,7.08
+"Woods, Zedrick",Ole Miss,S,71,205,4.29,19,34.5,122,4.15,7
+"Worthington, Evan",Colorado,S,74,212,4.63,17,33.5,121,4.37,7.07
+"Blanton, Kendall",Missouri,TE,78,262,4.95,22,31,113,4.42,7.37
+"Brown, Keenen",Texas St.,TE,74,250,4.75,17,33,117,4.51,7.27
+"Fant, Noah",Iowa,TE,76,249,4.5,20,39.5,127,4.22,6.81
+"Gentry, Zach",Michigan,TE,80,265,4.9,12,29.5,110,4.53,7.4
+"Helm, Daniel",Duke,TE,76,249,4.89,14,,,,
+"Hockenson, T.J.",Iowa,TE,77,251,4.7,17,37.5,123,4.18,7.02
+"Knox, Dawson",Ole Miss,TE,76,254,,16,34.5,,4.27,7.12
+"Mack, Alize",Notre Dame,TE,76,249,4.7,22,36,120,4.34,7.27
+"Moreau, Foster",LSU,TE,76,253,4.66,22,36.5,121,4.11,7.16
+"Nauta, Isaac",Georgia,TE,75,244,4.91,19,28,,4.43,7.45
+"Oliver, Josh",San Jose St.,TE,77,249,4.63,22,34,117,4.47,7.21
+"Raymond, Dax",Utah St.,TE,77,255,4.73,15,32,109,4.39,7.15
+"Sample, Drew",Washington,TE,77,255,4.71,,33.5,115,4.31,7.15
+"Smith, Kaden",Stanford,TE,77,255,4.92,15,32,108,4.47,7.08
+"Smith, Irv",Alabama,TE,74,242,4.63,19,32.5,110,4.33,7.32
+"Sternberger, Jace",Texas A&M,TE,76,251,4.75,17,31.5,113,4.31,7.19
+"Sweeney, Tommy",Boston College,TE,76,251,4.83,17,,,,
+"Warring, Kahale",San Diego St.,TE,77,252,4.67,19,36.5,122,4.25,7.21
+"Wesco, Trevon",West Virginia,TE,75,267,4.89,24,31,117,4.38,7.18
+"Wilson, Caleb",UCLA,TE,76,240,4.56,,29,113,4.4,7.2
+"Boykin, Miles",Notre Dame,WR,76,220,4.42,12,43.5,140,4.07,6.77
+"Brady, Tyre",Marshall,WR,75,211,,12,32,117,4.25,
+"Brown, A.J.",Ole Miss,WR,72,226,4.49,19,36.5,120,,
+"Butler, Emmanuel",Northern Arizona,WR,75,217,,11,36,115,4.22,
+"Butler, Hakeem",Iowa St.,WR,77,227,4.48,18,36,128,,
+"Campbell, Parris",Ohio St.,WR,72,205,4.31,11,40,135,4.03,
+"Custis, Jamal",Syracuse,WR,76,214,4.5,,34.5,124,,
+"Davis, Felton",Michigan St.,WR,75,211,,21,,,,
+"Davis, Ryan",Auburn,WR,70,189,,12,35,124,4.23,7.09
+"Dixon, Johnnie",Ohio St.,WR,70,201,4.41,16,37.5,120,4.43,
+"Doss, Keelan",UC Davis,WR,74,211,,8,,,,
+"Dulin, Ashton",Malone College,WR,73,215,4.43,13,38,121,4.22,7
+"Durante, Jovon",FAU,WR,71,160,4.55,,31.5,120,4.31,7
+"Ferguson, Jazz",Northwestern State,WR,77,227,4.45,8,37,123,4.59,7.25
+"Fulgham, Travis",Old Dominion,WR,74,215,4.58,15,36.5,126,,
+"Godwin, Terry",Georgia,WR,71,184,4.55,,36.5,117,,6.96
+"Hall, Emanuel",Missouri,WR,74,201,4.39,15,43.5,141,,
+"Hardman, Mecole",Georgia,WR,70,187,4.33,17,36.5,119,,
+"Harmon, Kelvin",NC State,WR,74,221,4.6,18,32.5,117,4.32,7.15
+"Harry, N'Keal",Arizona St.,WR,74,228,4.53,27,38.5,122,,
+"Humphrey, Lil'Jordan",Texas,WR,76,210,4.75,13,33.5,119,4.29,7.09
+"Hurd, Jalen",Baylor,WR,77,226,,23,,,,
+"Isabella, Andy",Massachusetts,WR,69,188,4.31,15,36.5,121,4.15,6.95
+"Jennings, Gary",West Virginia,WR,73,214,4.42,20,37,127,4.15,7.32
+"Johnson, Diontae",Toledo,WR,70,183,4.53,15,33.5,123,4.45,7.09
+"Johnson, KeeSean",Fresno St.,WR,73,201,4.6,14,30,117,4.23,7.28
+"Johnson, Olabisi",Colorado St.,WR,72,204,4.51,14,38,124,4.16,6.88
+"Johnson, Anthony",Buffalo,WR,74,209,,18,32.5,122,,7.12
+"Lodge, DaMarkus",Ole Miss,WR,74,202,4.55,11,33.5,119,4.53,7.06
+"McLaurin, Terry",Ohio St.,WR,72,208,4.35,18,37.5,125,4.15,7.01
+"Metcalf, D.K.",Ole Miss,WR,75,228,4.33,27,40.5,134,4.5,7.38
+"Meyers, Jakobi",NC State,WR,74,203,4.63,13,37,118,4.23,7.07
+"Mitchell, Dillon",Oregon,WR,73,197,4.46,12,36.5,122,4.29,
+"Morgan, Stanley",Nebraska,WR,72,202,4.53,14,38.5,125,4.13,6.78
+"Murray, Nyqwan",Florida St.,WR,70,191,4.63,8,34,113,4.4,7.2
+"Renfrow, Hunter",Clemson,WR,70,184,4.59,7,35,116,4.19,6.8
+"Ridley, Riley",Georgia,WR,73,199,4.58,13,30.5,124,4.28,7.22
+"Samuel, Deebo",South Carolina,WR,71,214,4.48,15,39,122,4.14,7.03
+"Sills, David",West Virginia,WR,75,211,4.57,14,37.5,117,4.28,6.97
+"Slayton, Darius",Auburn,WR,73,190,4.39,11,40.5,135,4.15,7
+"Smith, Jaylen",Louisville,WR,74,219,4.47,14,34.5,122,4.48,7.55
+"Thompson, Cody",Toledo,WR,73,205,4.57,19,38.5,119,4.03,6.87
+"Way, Jamarius",South Alabama,WR,75,215,4.63,16,32.5,119,4.66,
+"Wesley, Antoine",Texas Tech,WR,76,206,,6,37,117,4.26,7.07
+"Wesley, Alex",Northern Colorado,WR,72,190,4.45,13,38.5,125,4.44,7.4
