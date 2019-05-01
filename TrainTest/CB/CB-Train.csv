@@ -1,0 +1,622 @@
+year,name,college,position,height_in,weight_lbs,40yards,benchpress,vert_leap_in,broad_jump_in,shuttle,3cone,defint,defyds,defavg,deftds,hasbling,allamerican,hasawards,drafted
+1997,antonio banks,Virginia Tech,CB,70,203,4.66,18,36,117,4.41,7.85,8,150,18.8,1,0,0,0,Y
+1997,ronde barber,Virginia,CB,69.4,185,4.68,14,34.5,118,4.46,7.22,15,112,7.5,0,0,0,0,Y
+1997,michael booker,Nebraska,CB,73.3,203,,10,,,,,4,58,14.5,0,0,0,0,Y
+1997,byron capers,Florida State,CB,73,202,4.66,14,31,116,4.44,7.51,2,10,5,0,0,0,0,Y
+1997,kevin devine,California,CB,69.4,184,4.53,20,,,4.16,7.36,5,19,3.8,0,0,0,0,N
+1997,van hiles,Kentucky,CB,71.1,186,4.78,10,35,116,4.26,7.24,8,81,10.1,1,0,0,0,Y
+1997,ty howard,Ohio State,CB,69.5,186,,13,,,,,6,41,6.8,0,0,0,0,Y
+1997,hudhaifa ismaeli,Northwestern,CB,71,191,4.57,,33,114,4.15,7.21,2,6,3,0,0,0,0,Y
+1997,aj johnson,Maryland,CB,69.5,170,4.69,7,31,108,4.03,7.67,,,,,0,0,0,N
+1997,tom knight,Iowa,CB,71.3,196,4.5,19,35.5,118,4.17,7.09,10,237,23.7,3,0,0,0,Y
+1997,earl little,Miami (FL),CB,71.8,183,4.62,2,31.5,113,4.49,7.58,6,31,5.2,0,0,0,0,N
+1997,sam madison,Louisville,CB,71.1,181,4.61,8,36.5,119,4.16,7.19,16,235,14.7,1,0,0,0,Y
+1997,dexter mccleon,Clemson,CB,70.4,198,4.53,14,35,117,4.14,7.3,9,57,6.3,0,0,0,0,Y
+1997,george mccullough,Baylor,CB,70,187,4.5,8,36.5,114,4.07,7.24,3,0,0,0,0,0,0,Y
+1997,tim mctyer,Brigham Young,CB,71,181,4.58,7,31,108,4.35,7.49,7,125,17.9,1,0,0,0,N
+1997,brian miller,Penn State,CB,69.4,191,,14,,,,,12,135,11.3,0,0,0,0,N
+1997,delmonico montgomery,Houston,CB,71.5,189,4.61,,32.5,112,4.09,7.18,8,139,17.4,1,0,0,0,Y
+1997,nathan perryman,Georgia Tech,CB,68.6,189,4.66,,30.5,113,4.15,7.27,,,,,0,0,0,N
+1997,chad scott,Maryland,CB,73.1,203,,20,,,,,8,14,1.8,0,0,0,0,Y
+1997,shawn springs,Ohio State,CB,71.9,197,,17,,,,,6,61,10.2,1,1,1,1,Y
+1997,rod thomas,Southern Mississippi,CB,72.4,192,4.75,6,33.5,115,4.44,7.82,8,85,10.6,1,0,0,0,N
+1997,denard walker,Louisiana State,CB,72.9,186,4.55,13,29.5,105,4.31,7.76,1,6,6,0,0,0,0,Y
+1997,kenny wheaton,Oregon,CB,69.6,189,4.76,8,32,108,4.23,7.45,11,380,34.5,3,0,0,0,Y
+1998,rodney artmore,Baylor,CB,71.8,216,4.6,8,38.5,122,4.27,7.3,1,21,21,0,0,0,0,N
+1998,roosevelt blackmon,Morris Brown (GA),CB,72.8,179,4.56,11,32.5,115,,7.38,,,,,0,0,0,Y
+1998,corey chavous,Vanderbilt,CB,71.8,204,4.55,15,39.5,120,3.96,7.65,12,4,0.3,0,0,0,0,Y
+1998,quincy coleman,Jackson State (MS),CB,70,182,,10,31.5,117,4.07,7.33,,,,,0,0,0,N
+1998,shadwick criss,Missouri,CB,69.9,183,4.54,9,34.5,,,,,,,,0,0,0,N
+1998,cedric donaldson,Louisiana State,CB,68.9,176,,7,34.5,117,,,8,199,24.9,2,0,0,0,N
+1998,terry fair,Tennessee,CB,69.4,185,,12,,,,,11,110,10,0,0,0,0,Y
+1998,artrell hawkins,Cincinnati,CB,70.4,193,4.45,,37,135,3.78,7.09,4,38,9.5,1,0,0,0,Y
+1998,garret johnson,Southwestern Louisiana,CB,71.1,188,4.5,7,33,110,4.18,7.39,,,,,0,0,0,N
+1998,brian kelly,Southern California,CB,71.1,192,,8,33.5,120,3.82,7.25,7,95,13.6,0,0,0,0,Y
+1998,clarence love,Toledo,CB,70.9,186,4.4,,38,122,3.96,7.27,6,78,13,0,0,0,0,Y
+1998,ramos mcdonald,New Mexico,CB,71.9,195,4.48,,35.5,115,4.04,7.24,11,212,19.3,1,0,0,0,Y
+1998,kato serwanga,California,CB,71,198,4.6,24,35,120,4.07,7.79,5,12,2.4,0,0,0,0,N
+1998,dainon sidney,Alabama-Birmingham,CB,72.4,188,4.5,,39,122,4.09,7.52,9,88,9.8,2,0,0,0,Y
+1998,duane starks,Miami (FL),CB,70,170,4.4,,38,127,,,6,139,23.2,1,0,0,0,Y
+1998,jason suttle,Wisconsin,CB,70,185,4.54,,36.5,120,3.87,7.16,8,108,13.5,0,0,0,0,N
+1998,cordell taylor,Hampton (VA),CB,71.8,192,4.46,18,37.5,121,4.21,7.08,,,,,0,0,0,Y
+1998,trevor townsend,Alabama,CB,69.3,179,4.59,10,38,116,3.95,7.43,,,,,0,0,0,N
+1998,fred weary,Florida,CB,69.9,178,,9,,,,,15,286,19.1,1,1,1,1,Y
+1998,elijah williams,Florida,CB,69.5,178,,10,37.5,122,,,1,11,11,0,0,0,0,Y
+1998,kevin williams,Oklahoma State,CB,71.3,190,4.52,,,121,3.98,7.07,,,,,0,0,0,Y
+1999,champ bailey,Georgia,CB,71.8,184,4.28,,37,121,3.79,,8,67,8.4,1,1,1,1,Y
+1999,dre bly,North Carolina,CB,69.9,186,4.51,,34.5,116,4.09,7.1,20,198,9.9,2,1,1,1,Y
+1999,jason bray,Auburn,CB,70,185,4.49,,33,113,4.35,7.2,,,,,0,0,0,N
+1999,kevin brooks,South Carolina,CB,69,169,4.34,,36,119,3.86,6.99,2,43,21.5,0,0,0,0,N
+1999,fernando bryant,Alabama,CB,70,183,4.5,,35.5,115,4.06,7.03,8,119,14.9,1,0,0,0,Y
+1999,jason craft,Colorado State,CB,69.6,178,4.53,14,37.5,113,4.2,6.97,4,56,14,0,0,0,0,Y
+1999,chris cummings,Louisiana State,CB,68.3,186,4.47,21,34.5,124,4.14,6.87,2,0,0,0,0,0,0,N
+1999,eric edwards,Oregon,CB,71.3,180,4.68,10,34,112,4.27,7.3,3,9,3,0,0,0,0,N
+1999,charles fisher,West Virginia,CB,71.9,182,4.49,10,38,119,4.16,,4,30,7.5,0,0,0,0,Y
+1999,andre holland,Oregon State,CB,69.1,181,4.41,14,34,112,,,,,,,0,0,0,N
+1999,jermaine jones,Northwestern State (LA),CB,67.6,180,4.51,12,38.5,116,3.96,6.79,,,,,0,0,0,Y
+1999,marvin love,Kentucky,CB,68.6,164,4.49,,35.5,123,4.09,7.09,,,,,0,0,0,N
+1999,deshone mallard,Southern Mississippi,CB,69.6,186,4.51,10,35.5,117,4.25,7.31,1,9,9,0,0,0,0,N
+1999,chris mcalister,Arizona,CB,73.1,206,4.53,,38,121,4.08,6.9,15,212,14.1,2,1,1,1,Y
+1999,daylon mccutcheon,Southern California,CB,68.8,180,4.52,13,36,117,4.35,7.21,10,189,18.9,1,0,0,0,Y
+1999,paul miranda,Central Florida,CB,69.9,180,4.41,11,40.5,124,4.1,7.18,2,72,36,1,0,0,0,Y
+1999,donald mitchell,Southern Methodist (TX),CB,69.8,187,4.51,24,37,118,4.08,6.87,6,63,10.5,0,0,0,0,Y
+1999,dee moronkola,Washington State,CB,69.3,204,4.46,17,33.5,111,4.12,7.11,7,42,6,0,0,0,0,Y
+1999,gerald neasman,Kansas State,CB,69.6,186,4.67,10,31.5,112,4.41,7.96,2,47,23.5,1,0,0,0,N
+1999,anthony parker,Weber State (UT),CB,72.6,197,4.39,8,31,113,4.27,7.56,,,,,0,0,0,Y
+1999,jacoby rhinehart,Southern Methodist (TX),CB,70.4,187,4.59,,34,120,4.11,6.91,8,11,1.4,0,0,0,0,Y
+1999,ty talton,Northern Iowa,CB,71.6,202,4.62,17,39,117,4,6.96,,,,,0,0,0,N
+1999,fred vinson,Vanderbilt,CB,70.6,177,4.39,14,36,121,4.17,7.21,4,39,9.8,0,0,0,0,Y
+1999,chris watson,Eastern Illinois,CB,73,191,4.34,18,37,124,3.86,6.8,,,,,0,0,0,Y
+1999,andre weathers,Michigan,CB,71.9,189,4.67,,32,119,4.03,7.03,5,79,15.8,1,0,0,0,Y
+1999,antoine winfield,Ohio State,CB,68.6,176,4.41,,37,122,3.95,6.84,3,52,17.3,0,1,1,1,Y
+2000,rashard anderson,Jackson State (MS),CB,74.4,206,4.59,,34,123,4.15,7.18,,,,,0,0,0,Y
+2000,reggie austin,Wake Forest,CB,69.4,175,4.46,17,35,119,4.14,7.03,9,62,6.9,0,0,0,0,Y
+2000,david barrett,Arkansas,CB,69.9,199,4.48,16,37.5,116,4.04,6.81,7,119,17,1,0,0,0,Y
+2000,william bartee,Oklahoma,CB,73,192,4.43,,38.5,124,3.99,6.7,2,-3,-1.5,0,0,0,0,Y
+2000,robert bean,Mississippi State,CB,71,178,4.5,,34.5,122,4.2,6.87,6,169,28.2,1,0,0,0,Y
+2000,ralph brown,Nebraska,CB,69.9,204,4.6,14,36,116,4.01,6.93,11,253,23,1,1,1,1,Y
+2000,david byrd,Syracuse,CB,71.4,202,4.55,14,36,117,4.39,7.18,1,0,0,0,0,0,0,N
+2000,ike charlton,Virginia Tech,CB,71.1,205,4.47,16,,126,,,8,143,17.9,2,0,0,0,Y
+2000,renard cox,Maryland,CB,71.4,192,4.72,13,38,111,,7.1,2,47,23.5,0,0,0,0,N
+2000,sedrick curry,Texas A&M,CB,73.5,197,4.47,,39,125,3.94,6.34,9,72,8,0,0,0,0,N
+2000,mario edwards,Florida State,CB,72.1,191,4.46,32,32.5,120,4.55,7.44,6,109,18.2,0,0,0,0,Y
+2000,lamar grant,Duke,CB,70.8,188,4.66,16,32,117,4.3,7.3,7,32,4.6,0,0,0,0,N
+2000,brian gray,Brigham Young,CB,73.3,214,4.95,19,33.5,116,4.24,7.38,5,103,20.6,2,0,0,0,N
+2000,antwan harris,Virginia,CB,69.1,186,4.37,16,39,121,4.01,6.75,4,95,23.8,1,0,0,0,Y
+2000,jeff harris,Georgia,CB,72.4,190,4.55,,34.5,114,4.25,6.73,6,9,1.5,0,0,0,0,Y
+2000,lloyd harrison,North Carolina State,CB,70,190,4.57,16,37.5,119,4.25,7.12,12,51,4.3,0,0,0,0,Y
+2000,ethan howell,Oklahoma State,CB,71,186,4.56,16,,,4.13,6.98,,,,,0,0,0,Y
+2000,ben kelly,Colorado,CB,68.9,183,4.56,17,36,116,3.95,6.63,11,97,8.8,0,0,0,0,Y
+2000,kareem larrimore,West Texas A&M,CB,71.1,190,4.44,,34,125,,,,,,,0,0,0,Y
+2000,david macklin,Penn State,CB,68.6,194,4.56,,37.5,120,4.09,6.9,8,120,15,1,0,0,0,Y
+2000,anthony malbrough,Texas Tech,CB,68.9,184,4.49,20,35.5,117,4,6.73,2,3,1.5,0,0,0,0,Y
+2000,hank poteat,Pittsburgh,CB,69.9,197,4.62,16,37,126,4,6.66,10,151,15.1,0,0,0,0,Y
+2000,lewis sanders,Maryland,CB,73,202,4.5,10,37,116,,,10,136,13.6,0,0,0,0,Y
+2000,tony scott,North Carolina State,CB,70.3,193,4.55,11,34,116,4.24,7.45,8,104,13,0,0,0,0,Y
+2000,jacoby shepherd,Oklahoma State,CB,73.5,195,4.55,5,35,120,,,2,0,0,0,0,0,0,Y
+2000,darrick vaughn,Texas State,CB,70.9,196,4.55,14,36.5,121,4.16,7.09,,,,,0,0,0,Y
+2000,jason webster,Texas A&M,CB,69.1,180,4.46,17,35.5,122,3.98,6.76,7,72,10.3,0,0,0,0,Y
+2000,damon wheeler,Colorado,CB,68.6,179,4.56,11,35,115,4.27,7.21,,,,,0,0,0,N
+2001,will allen,Syracuse,CB,70.5,192,4.44,14,39.5,121,3.9,6.78,4,42,10.5,0,0,0,0,Y
+2001,gary baxter,Baylor,CB,73.6,204,4.52,,37.5,122,4.21,7.39,6,117,19.5,0,0,0,0,Y
+2001,harold blackmon,Northwestern,CB,71.4,210,4.47,17,37,121,4.28,7.03,10,103,10.3,1,0,0,0,Y
+2001,kenny bryant,Jackson State (MS),CB,70.6,190,4.63,10,37.5,117,4.15,7.5,5,122,24.4,1,0,0,0,N
+2001,jerametrius butler,Kansas State,CB,70,173,4.57,11,36,121,4.4,7.22,10,68,6.8,0,0,0,0,Y
+2001,tay cody,Florida State,CB,69.1,181,4.55,11,,,,,12,221,18.4,1,1,1,1,Y
+2001,rodney crayton,Auburn,CB,67.6,178,4.58,13,35.5,118,4.4,7.25,9,26,2.9,0,0,0,0,N
+2001,patrick dyson,Utah,CB,70,179,4.55,,31.5,119,,,2,64,32,1,0,0,0,N
+2001,nijrell eason,Arizona State,CB,72.8,201,4.59,19,34.5,119,,,6,47,7.8,0,0,0,0,N
+2001,kenneth grant,Kentucky,CB,70.3,204,4.5,,39,115,4.34,7.15,,,,,0,0,0,N
+2001,jamie henderson,Georgia,CB,73.5,202,4.48,10,40.5,125,4.12,6.9,8,112,14,2,0,0,0,Y
+2001,anthony henry,South Florida,CB,72.8,198,4.57,15,41,126,4.2,6.9,5,88,17.6,0,0,0,0,Y
+2001,renaldo hill,Michigan State,CB,71,178,4.59,10,35.5,116,4.18,7.07,9,28,3.1,0,0,0,0,Y
+2001,rashad holman,Louisville,CB,70.6,186,4.58,6,42,129,3.85,7.09,14,89,6.4,0,0,0,0,Y
+2001,ligarius jennings,Tennessee State,CB,69.5,202,4.62,11,34,120,4.03,7.07,,,,,0,0,0,N
+2001,bhawoh jue,Penn State,CB,72.3,199,4.53,,34.5,113,4.27,7.21,7,107,15.3,1,0,0,0,Y
+2001,eric kelly,Kentucky,CB,70.5,199,4.47,15,36,120,4.18,7.24,4,72,18,0,0,0,0,Y
+2001,willie middlebrooks,Minnesota,CB,73.6,200,4.5,17,,,,,4,55,13.8,1,0,0,0,Y
+2001,keon moore,Southern Mississippi,CB,70.9,193,4.57,10,37.5,119,4.2,7.06,2,-4,-2,0,0,0,0,N
+2001,leonard myers,Miami (FL),CB,70.3,190,4.57,13,37,120,4.16,7.21,9,160,17.8,2,0,0,0,Y
+2001,will peterson,Western Illinois,CB,72,197,4.51,13,38.5,120,,,4,76,19,1,0,0,0,N
+2001,carey scott,Kentucky State,CB,71.1,208,4.58,,30,113,4.18,7.52,,,,,0,0,0,Y
+2001,dwight smith,Akron,CB,69.6,212,4.5,15,33.5,114,,,15,261,17.4,3,1,1,1,Y
+2001,michael stone,Memphis,CB,71.3,191,4.51,17,41,127,,,3,28,9.3,0,0,0,0,Y
+2001,clevan thomas,Florida State,CB,69.1,189,4.6,,36,118,4.24,7.42,6,27,4.5,0,0,0,0,N
+2001,raymond walls,Southern Mississippi,CB,70.8,176,4.49,,39,124,4.18,,4,54,13.5,1,0,0,0,Y
+2001,james whitley,Michigan,CB,70.4,193,4.7,9,39,118,4.4,7.04,5,17,3.4,0,0,0,0,N
+2001,brock williams,Notre Dame,CB,69.6,183,4.46,11,42.5,130,4.21,6.7,2,3,1.5,0,0,0,0,Y
+2001,jimmy williams,Vanderbilt,CB,70.1,188,4.6,,36,120,,7.12,10,158,15.8,0,0,0,0,Y
+2002,rashad bauman,Oregon,CB,68.3,186,4.47,10,39,117,,,12,293,24.4,3,0,0,0,Y
+2002,tony beckham,Wisconsin-Stout,CB,73,195,4.37,15,34.5,121,4.3,7.12,,,,,0,0,0,Y
+2002,bruce branch,Penn State,CB,70.9,192,4.59,,35,112,4.47,7.12,3,33,11,0,0,0,0,N
+2002,sheldon brown,South Carolina,CB,69.9,196,4.46,15,36.5,118,4.24,7,10,206,20.6,0,0,0,0,Y
+2002,jermaine chatman,Arizona,CB,70.6,185,4.54,,35.5,118,,,6,64,10.7,0,0,0,0,N
+2002,keyuo craver,Nebraska,CB,70.8,201,4.57,13,31,116,,,7,115,16.4,1,0,0,0,Y
+2002,demarcus faggins,Kansas State,CB,70.5,178,4.56,3,36.5,118,3.92,6.64,5,89,17.8,0,0,0,0,N
+2002,willie ford,Syracuse,CB,73.5,195,4.57,10,34,117,4.33,7.25,3,39,13,0,0,0,0,N
+2002,lavar glover,Cincinnati,CB,69.5,177,4.57,11,37,114,4.29,7.18,2,68,34,2,0,0,0,Y
+2002,quentin jammer,Texas,CB,71.9,204,4.49,18,36,124,,,7,29,4.1,0,1,1,1,Y
+2002,joseph jefferson,Western Kentucky,CB,71.5,205,4.37,8,39.5,117,4.01,6.84,,,,,0,0,0,Y
+2002,eric joyce,Tennessee State,CB,69.1,192,4.55,11,40.5,114,3.97,6.81,,,,,0,0,0,N
+2002,omare lowe,Washington,CB,72.9,196,4.54,12,35.5,115,3.97,6.65,5,52,10.4,1,0,0,0,Y
+2002,tony okanlawon,Maryland,CB,71,185,4.67,16,38,118,4.39,7.37,6,60,10,0,0,0,0,N
+2002,kris richard,Southern California,CB,71,186,4.46,10,39.5,117,4.15,,8,157,19.6,3,0,0,0,Y
+2002,bobby sippio,Western Kentucky,CB,75,214,4.73,12,37,120,4.2,6.78,,,,,0,0,0,N
+2002,kevin thomas,Nevada Las Vegas,CB,71.3,180,4.68,10,35,122,,,,,,,0,0,0,Y
+2002,lenny walls,Boston College,CB,76.3,192,4.7,7,37,115,,,9,55,6.1,1,0,0,0,N
+2002,dante wesley,Arkansas-Pine Bluff,CB,72.6,211,4.47,15,35,114,4.22,7.25,,,,,0,0,0,Y
+2002,brian williams,North Carolina State,CB,71.6,207,4.58,19,39,122,4.2,7.21,5,14,2.8,0,0,0,0,Y
+2002,roosevelt williams,Tuskegee (AL),CB,71.4,204,4.59,23,38,119,,,,,,,0,0,0,Y
+2003,nnamdi asomugha,California,CB,74.4,213,4.5,16,37.5,124,,,7,127,18.1,3,0,0,0,Y
+2003,rod babers,Texas,CB,68.8,192,4.46,15,37,127,4.06,6.82,,,,,0,0,0,N
+2003,korey banks,Mississippi State,CB,69.9,188,4.59,15,,,,,7,35,5,0,0,0,0,N
+2003,torrie cox,Pittsburgh,CB,69.3,181,4.55,,32,119,4.15,6.96,3,41,13.7,0,0,0,0,Y
+2003,sammy davis,Texas A&M,CB,71.8,186,4.45,19,40,131,,7,11,112,10.2,0,0,0,0,Y
+2003,drayton florence,Tuskegee (AL),CB,72.3,198,4.42,18,35,124,,,,,,,0,0,0,Y
+2003,kevin garrett,Southern Methodist (TX),CB,69.4,194,4.32,,35,129,3.96,6.89,7,98,14,1,0,0,0,Y
+2003,jason goss,Texas Christian,CB,70,183,4.72,15,32.5,117,4.24,7.46,14,50,3.6,0,0,0,0,N
+2003,dejuan groce,Nebraska,CB,69.6,192,4.54,18,36,118,3.96,6.81,8,75,9.4,0,0,0,0,Y
+2003,mike lehan,Minnesota,CB,71.8,196,4.52,13,34.5,119,4.1,6.94,,,,,0,0,0,N
+2003,brian mance,Clemson,CB,70.4,189,4.61,18,32.5,115,,,11,73,6.6,0,0,0,0,N
+2003,ricky manning,UCLA,CB,68.6,185,4.55,12,36.5,117,4.12,7.09,13,245,18.8,1,0,0,0,Y
+2003,terrence mcgee,Northwestern State (LA),CB,69.6,201,4.55,15,37,126,4.07,6.87,,,,,0,0,0,Y
+2003,terence newman,Kansas State,CB,70.4,189,4.41,10,41,136,3.82,6.88,10,33,3.3,0,1,1,1,Y
+2003,terrell roberts,Oregon State,CB,69.1,203,4.74,18,34,117,4.19,7.12,5,8,1.6,0,0,0,0,N
+2003,asante samuel,Central Florida,CB,70.9,185,4.52,9,35.5,120,4.09,6.94,8,71,8.9,0,0,0,0,Y
+2003,donald strickland,Colorado,CB,70,187,4.48,16,35.5,121,4.01,6.97,4,220,55,4,0,0,0,Y
+2003,charles tillman,Louisiana-Lafayette,CB,73,207,4.49,12,40,131,3.89,7.05,12,36,3,0,0,0,0,Y
+2003,marcus trufant,Washington State,CB,71.1,199,4.43,11,39,127,4.3,6.85,11,139,12.6,0,0,0,0,Y
+2003,bj tucker,Wisconsin,CB,70.5,188,4.38,16,35,123,4.14,7.25,5,67,13.4,1,0,0,0,Y
+2003,shane walton,Notre Dame,CB,70.6,184,4.67,11,31,109,4.2,7.03,11,181,16.5,3,1,1,1,Y
+2003,dennis weathersby,Oregon State,CB,72.6,204,4.39,9,38,125,4.08,7.13,5,76,15.2,0,0,0,0,Y
+2003,eugene wilson,Illinois,CB,70.4,192,4.46,15,38,122,4,7.18,11,51,4.6,0,0,0,0,Y
+2003,andre woolfolk,Oklahoma,CB,73.4,197,4.47,10,35.5,128,3.95,6.76,3,39,13,0,0,0,0,Y
+2004,roc alexander,Washington,CB,71,185,4.37,,39.5,125,4.23,6.97,4,1,0.3,0,0,0,0,N
+2004,marcell allmond,Southern California,CB,72,209,4.63,21,38,123,4.34,7.37,4,0,0,0,0,0,0,N
+2004,rufus brown,Florida State,CB,69.3,187,4.45,15,33,124,4.44,7.24,4,61,15.3,1,0,0,0,N
+2004,ahmad carroll,Arkansas,CB,69.6,195,4.36,15,41,128,,,4,43,10.8,0,0,0,0,Y
+2004,ricardo colclough,Tusculum (TN),CB,70.6,194,4.5,8,39.5,127,,,,,,,0,0,0,Y
+2004,curtis deloatch,North Carolina A&T,CB,74.4,214,4.52,10,35.5,120,4.42,6.97,,,,,0,0,0,N
+2004,vontez duff,Notre Dame,CB,70.6,203,4.55,13,35,120,4.03,6.94,7,129,18.4,1,0,0,0,Y
+2004,rich gardner,Penn State,CB,70.6,199,4.49,11,36.5,123,3.91,6.91,3,108,36,2,0,0,0,Y
+2004,jabari greer,Tennessee,CB,70.1,178,4.51,7,36.5,126,,,2,26,13,0,0,0,0,N
+2004,deangelo hall,Virginia Tech,CB,70,202,4.36,,,,,,8,161,20.1,1,0,0,0,Y
+2004,von hutchins,Mississippi,CB,69.6,185,4.5,11,34.5,115,4.06,7.05,11,51,4.6,0,0,0,0,Y
+2004,randy jordan,Kansas State,CB,72.8,178,4.61,,33.5,115,4.21,7.34,6,18,3,0,0,0,0,N
+2004,jeremy lesueur,Michigan,CB,72,197,4.55,,35,116,,,4,87,21.8,1,0,0,0,Y
+2004,will poole,Southern California,CB,70.4,194,4.47,16,,,,,7,70,10,1,0,0,0,Y
+2004,keiwan ratliff,Florida,CB,70.1,194,4.58,11,,,,,12,260,21.7,3,1,1,1,Y
+2004,lawrence richardson,Arkansas,CB,69.3,194,4.63,8,31,112,,,4,25,6.3,0,0,0,0,N
+2004,dunta robinson,South Carolina,CB,70.6,186,4.35,15,36,120,3.75,6.97,5,92,18.4,1,0,0,0,Y
+2004,keith smith,McNeese State (LA),CB,71.5,201,4.49,12,36.5,116,,,,,,,0,0,0,Y
+2004,joey thomas,Montana State,CB,72.9,195,4.46,17,38.5,122,3.88,6.82,0,0,,0,0,0,0,Y
+2004,chris thompson,Nicholls State (LA),CB,72,189,4.5,12,35,117,4.14,7.09,,,,,0,0,0,Y
+2004,bruce thornton,Georgia,CB,71,197,4.5,,37.5,122,,,4,75,18.8,1,0,0,0,Y
+2004,michael waddell,North Carolina,CB,70.9,187,4.33,14,37.5,121,4.03,6.84,3,49,16.3,0,0,0,0,Y
+2004,dexter wynn,Colorado State,CB,69.3,175,4.49,13,39,123,3.9,6.7,4,62,15.5,0,0,0,0,Y
+2005,ronald bartell,Howard (DC),CB,73.3,211,4.42,21,35.5,,,,,,,,0,0,0,Y
+2005,brandon browner,Oregon State,CB,75.5,221,4.67,13,36.5,120,4.24,7.2,6,74,12.3,1,0,0,0,N
+2005,nick collins,Bethune-Cookman (FL),CB,71.1,206,4.42,11,40,113,4.16,6.94,,,,,0,0,0,Y
+2005,markus curry,Michigan,CB,70.9,181,4.62,12,35,113,3.89,7.04,7,51,7.3,0,0,0,0,N
+2005,travis daniels,Louisiana State,CB,72.6,194,4.59,,35,117,3.97,6.95,2,49,24.5,2,0,0,0,Y
+2005,abraham elimimian,Hawaii,CB,69.6,190,4.68,14,39,118,4.05,,11,47,4.3,0,0,0,0,N
+2005,domonique foxworth,Maryland,CB,71.1,184,4.39,14,41,125,3.89,6.78,8,128,16,1,0,0,0,Y
+2005,eric green,Virginia Tech,CB,71.4,198,4.56,,38,120,3.9,,8,264,33,2,0,0,0,Y
+2005,kelvin hayden,Illinois,CB,70.4,197,4.52,17,34,111,3.9,6.87,4,84,21,1,0,0,0,Y
+2005,ellis hobbs,Iowa State,CB,69,192,4.49,12,42,121,4.07,6.8,9,121,13.4,1,0,0,0,Y
+2005,alphonso hodge,Miami (OH),CB,70.8,203,4.47,20,34,,3.99,,,,,,0,0,0,Y
+2005,daven holly,Cincinnati,CB,70.4,192,4.44,15,39,113,4.08,7.16,9,58,6.4,1,0,0,0,Y
+2005,marlin jackson,Michigan,CB,73,198,4.52,23,36,125,3.96,6.95,9,77,8.6,1,1,1,1,Y
+2005,derrick johnson,Texas,CB,75.3,242,4.54,18,37.5,120,3.87,7.2,9,195,21.7,1,1,1,1,Y
+2005,eric king,Wake Forest,CB,68.5,189,4.49,12,,,,,7,143,20.4,1,0,0,0,Y
+2005,bryant mcfadden,Florida State,CB,71.8,193,4.53,23,38.5,126,4.04,,4,8,2,0,0,0,0,Y
+2005,chris mckenzie,Arizona State,CB,68.5,185,4.37,6,45,133,4.32,6.9,3,23,7.7,0,0,0,0,N
+2005,justin miller,Clemson,CB,69.8,201,4.46,15,41.5,126,,,13,94,7.2,0,0,0,0,Y
+2005,karl paymah,Washington State,CB,72,204,4.38,15,41.5,121,3.91,7.09,3,5,1.7,0,0,0,0,Y
+2005,antonio perkins,Oklahoma,CB,70.8,190,4.53,10,40,126,4.07,7.17,11,150,13.6,0,1,1,1,Y
+2005,lamont reid,North Carolina State,CB,71.3,195,4.59,15,40.5,120,4.28,7.18,2,29,14.5,0,0,0,0,N
+2005,carlos rogers,Auburn,CB,72.4,196,4.45,15,40.5,126,3.82,6.48,7,101,14.4,1,1,1,1,Y
+2005,antrel rolle,Miami (FL),CB,72.1,201,4.5,15,,,,,5,73,14.6,1,1,1,1,Y
+2005,stanford routt,Houston,CB,73.4,193,4.33,,36.5,127,3.9,6.63,7,96,13.7,0,0,0,0,Y
+2005,scott starks,Wisconsin,CB,68.5,172,4.42,13,43,133,3.9,6.99,7,105,15,0,0,0,0,Y
+2005,fabian washington,Nebraska,CB,70.5,188,4.31,18,41.5,122,3.91,,11,72,6.5,1,0,0,0,Y
+2005,corey webster,Louisiana State,CB,72.1,199,4.51,9,,,,,16,181,11.3,1,0,0,0,Y
+2005,aric williams,Oregon State,CB,73,187,4.58,8,36,117,,,9,67,7.4,0,0,0,0,N
+2005,cedrick williams,Kansas State,CB,69.8,168,4.55,13,35,121,4.22,7.24,5,-2,-0.4,0,0,0,0,N
+2005,darrent williams,Oklahoma State,CB,69,176,4.3,16,39,124,3.96,6.97,11,282,25.6,5,0,0,0,Y
+2005,stanley wilson,Stanford,CB,71.8,185,4.39,14,39.5,123,,,5,103,20.6,0,0,0,0,Y
+2005,jerron wishom,Louisiana Tech,CB,71.8,193,4.53,18,38,118,4.07,6.81,3,56,18.7,1,0,0,0,N
+2006,will blackmon,Boston College,CB,72.25,198,4.49,,41,133,4.23,6.67,8,59,7.4,0,0,0,0,Y
+2006,antonio cromartie,Florida State,CB,74.13,208,4.5,18,38,132,,,5,111,22.2,2,0,0,0,Y
+2006,charles gordon,Kansas,CB,70.13,183,4.64,12,35.5,115,4.2,6.95,9,52,5.8,0,0,0,0,N
+2006,chris hawkins,Marshall (WV),CB,70.13,183,4.53,16,37,116,4.18,,0,0,,0,0,0,0,N
+2006,tye hill,Clemson,CB,69.63,185,4.34,,41,129,4.01,6.63,5,33,6.6,0,1,1,1,Y
+2006,reuben houston,Georgia Tech,CB,71.88,192,4.68,21,41.5,127,4.42,,7,81,11.6,0,0,0,0,N
+2006,darrell hunter,Miami (OH),CB,71.88,206,4.47,8,36,123,4.11,,8,97,12.1,1,0,0,0,N
+2006,kelly jennings,Miami (FL),CB,70.88,178,4.44,,40,120,4,,6,37,6.2,0,0,0,0,Y
+2006,tim jennings,Georgia,CB,67.75,185,4.38,17,37.5,117,,,10,194,19.4,2,0,0,0,Y
+2006,johnathan joseph,South Carolina,CB,71,193,4.37,15,37,123,4.23,6.92,,,,,0,0,0,Y
+2006,josh lay,Pittsburgh,CB,72,197,4.48,16,40.5,120,,,3,117,39,1,0,0,0,N
+2006,antonio malone,Toledo,CB,71.75,200,4.61,10,34,111,4.1,7.05,6,116,19.3,1,0,0,0,N
+2006,danieal manning,Abilene Christian (TX),CB,70.75,202,4.5,17,39,123,4.07,7.23,,,,,0,0,0,Y
+2006,richard marshall,Frenso State (CA),CB,71.13,189,4.46,12,37,129,4.16,6.65,,,,,0,0,0,Y
+2006,derrick martin,Wyoming,CB,70,202,4.54,17,40,127,3.95,6.72,6,49,8.2,1,0,0,0,Y
+2006,marcus maxey,Miami (FL),CB,73.5,198,4.5,14,41.5,129,,,2,32,16,0,0,0,0,Y
+2006,dee mccann,West Virginia,CB,71.25,197,4.54,,40.5,122,4.38,7.35,7,9,1.3,0,0,0,0,N
+2006,gerrick mcphearson,Maryland,CB,70.13,196,4.46,18,41.5,129,,,1,14,14,0,0,0,0,Y
+2006,demario minter,Georgia,CB,71.13,190,4.54,10,38.5,131,4.1,6.87,2,0,0,0,0,0,0,Y
+2006,khalid naziruddin,Texas Tech,CB,69.13,185,4.69,17,38.5,119,,,2,2,1,0,0,0,0,N
+2006,chijioke onyenegecha,Oklahoma,CB,73.38,215,4.58,16,34.5,118,,,1,63,63,1,0,0,0,N
+2006,david pittman,Northwestern State (LA),CB,71.25,182,4.49,14,36,128,4.23,,,,,,0,0,0,Y
+2006,john walker,Southern California,CB,71.75,205,4.65,,40,125,4.16,,2,1,0.5,0,0,0,0,N
+2006,dee webb,Florida,CB,70.75,183,4.45,,36.5,121,,,,,,,0,0,0,N
+2007,anthony arline,Baylor,CB,73.75,199,4.45,12,34.5,124,4.46,7.02,6,29,4.8,0,0,0,0,N
+2007,travarous bain,Hampton (VA),CB,72.25,182,4.46,10,,,,,,,,,0,0,0,N
+2007,fred bennett,South Carolina,CB,72.88,196,4.49,17,38.5,125,4.3,6.67,9,43,4.8,0,0,0,0,Y
+2007,tyron brackenridge,Washington State,CB,71.5,189,4.72,,,,,,3,42,14,1,0,0,0,N
+2007,tarell brown,Texas,CB,70.63,190,4.47,17,33.5,111,4.37,7,3,42,14,0,0,0,0,Y
+2007,michael coe,Alabama State,CB,72.63,190,4.56,17,35,122,4.31,6.78,,,,,0,0,0,Y
+2007,duane coleman,Clemson,CB,69.38,199,4.59,18,35.5,120,4.51,7.18,1,6,6,0,0,0,0,N
+2007,leon hall,Michigan,CB,71.25,193,4.42,15,37.5,125,4.07,6.5,12,23,1.9,0,1,1,1,Y
+2007,chris houston,Arkansas,CB,69.88,185,4.37,27,36,122,4.12,6.94,3,129,43,1,0,0,0,Y
+2007,daymeion hughes,California,CB,70.13,190,4.68,16,28.5,114,4.43,7.28,15,344,22.9,4,1,1,1,Y
+2007,david irons,Auburn,CB,70.25,190,4.5,11,29.5,111,4.3,7.18,2,0,0,0,0,0,0,Y
+2007,reggie lewis,Florida,CB,70,204,4.57,14,34,119,,7.13,5,35,7,0,0,0,0,N
+2007,trumaine mcbride,Mississippi,CB,69.13,185,4.6,14,34.5,122,4.32,6.96,4,101,25.3,1,0,0,0,Y
+2007,marcus mccauley,Frenso State (CA),CB,72.75,203,4.4,17,36,129,4.17,6.61,4,78,19.5,0,0,0,0,Y
+2007,brandon mcdonald,Memphis,CB,70.88,181,4.61,17,33,118,4.76,7.44,7,158,22.6,0,0,0,0,Y
+2007,aaron ross,Texas,CB,72.5,193,4.46,17,34,118,4.15,6.67,10,111,11.1,0,1,0,1,Y
+2007,kenny scott,Georgia Tech,CB,72.88,179,4.4,10,40,127,,,5,81,16.2,2,0,0,0,N
+2007,bo smith,Weber State (UT),CB,70.25,193,4.48,14,33.5,,,,,,,,0,0,0,N
+2007,ryan smith,Florida,CB,70.25,174,4.54,11,,122,4.09,6.88,8,44,5.5,0,0,0,0,Y
+2007,jonathan wade,Tennessee,CB,70,195,4.4,,40.5,126,4.4,7.07,6,112,18.7,1,0,0,0,Y
+2007,chaz williams,Louisiana-Monroe,CB,71.13,196,4.75,13,32.5,108,,,8,209,26.1,2,0,0,0,N
+2007,cj wilson,Baylor,CB,73.3,195,4.63,,37.5,127,4.2,6.81,9,152,16.9,1,0,0,0,Y
+2007,josh wilson,Maryland,CB,69.25,189,4.42,20,36.5,120,4.43,7.07,2,27,13.5,0,0,0,0,Y
+2007,eric wright,Nevada Las Vegas,CB,70.6,192,4.37,16,36.5,123,4.23,6.93,,,,,0,0,0,Y
+2008,zackary bowman,Nebraska,CB,72.13,197,4.44,18,30.5,122,4.21,7.1,3,0,0,0,0,0,0,N
+2008,tyvon branch,Connecticut,CB,71.38,204,4.35,19,34,120,4.4,,3,15,5,0,0,0,0,Y
+2008,antoine cason,Arizona,CB,72.25,191,4.55,20,35.5,128,4.08,,15,349,23.3,3,1,1,1,Y
+2008,brandon flowers,Virginia Tech,CB,69.75,189,4.59,14,30,117,,,10,172,17.2,2,0,0,0,Y
+2008,wilrey fontenot,Arizona,CB,68.75,171,4.48,18,34,128,4.26,7.29,5,58,11.6,0,0,0,0,Y
+2008,charles godfrey,Iowa,CB,71.75,207,4.48,14,32.5,121,4.4,7.28,7,38,5.4,0,0,0,0,Y
+2008,michael grant,Arkansas,CB,70.25,186,4.41,14,30.5,116,4.1,7.08,9,15,1.7,0,0,0,0,N
+2008,chevis jackson,Louisiana State,CB,72,192,4.65,13,36,125,4.15,6.96,8,62,7.8,0,0,0,0,Y
+2008,mike jenkins,South Florida,CB,70.25,197,4.43,18,34,117,4.4,7.21,6,41,6.8,0,0,0,0,Y
+2008,justin king,Penn State,CB,70.88,192,4.38,14,34,127,4.31,7.14,3,6,2,0,0,0,0,Y
+2008,patrick lee,Auburn,CB,72,200,4.45,15,31,120,4.3,7.07,5,52,10.4,8,0,0,0,Y
+2008,dwight lowery,San Jose State,CB,71.13,201,4.69,16,33.5,116,4.38,7.31,13,147,11.3,1,0,0,0,Y
+2008,leodis mckelvin,Troy (AL),CB,70.25,190,4.4,17,33.5,121,4.1,7.06,4,62,15.5,0,0,0,0,N
+2008,justin mckinney,Kansas State,CB,69.38,188,4.61,11,29.5,109,,,6,36,6,0,0,0,0,N
+2008,antwaun molden,Eastern Kentucky,CB,72.75,198,4.44,23,37.5,129,4.14,6.85,,,,,0,0,0,Y
+2008,tracy porter,Indiana,CB,70.88,188,4.49,18,34,123,4.07,7.2,16,413,25.8,1,0,0,0,Y
+2008,matterral richardson,Arkansas,CB,71,194,4.76,14,,114,4.36,7.01,4,55,13.8,0,0,0,0,N
+2008,dominique rodgerscromartie,Tennessee State,CB,73.5,184,4.36,17,38.5,131,4.17,6.74,,,,,0,0,0,Y
+2008,orlando scandrick,Boise State,CB,70,192,4.36,,33.5,125,,6.83,4,117,29.3,1,0,0,0,Y
+2008,brandon sumrall,Southern Mississippi,CB,69.88,195,4.67,,30.5,123,4.1,6.76,12,145,12.1,1,0,0,0,N
+2008,aqib talib,Kansas,CB,72.75,202,4.5,10,38,131,4.22,6.82,13,322,24.8,2,1,1,1,Y
+2008,darnell terrell,Missouri,CB,73.75,203,4.49,15,34,125,,,3,25,8.3,0,0,0,0,N
+2008,terrell thomas,Southern California,CB,72.5,202,4.54,14,30.5,123,,7.18,8,80,10,0,0,0,0,Y
+2008,dejuan tribble,Boston College,CB,68.75,189,4.63,13,32,114,,,15,145,9.7,3,0,0,0,Y
+2008,justin tryon,Arizona State,CB,69.13,190,4.54,21,32.5,119,4.28,7.41,4,102,25.5,1,0,0,0,Y
+2008,marcus walker,Oklahoma,CB,70.38,191,4.57,,35.5,122,4.07,6.8,3,56,18.7,1,0,0,0,N
+2008,terrence wheatley,Colorado,CB,69.63,187,4.43,17,36.5,128,4.17,6.74,14,154,11,2,0,0,0,Y
+2008,jonathan wilhite,Auburn,CB,69.5,185,4.45,20,33.5,119,,,3,0,0,0,0,0,0,Y
+2008,jack williams,Kent State (OH),CB,69,186,4.56,19,35.5,121,,6.91,13,209,16.1,0,0,0,0,Y
+2008,trae williams,South Florida,CB,69,193,4.54,,29.5,110,,,16,219,13.7,4,0,0,0,Y
+2008,jonathan zenon,Louisiana State,CB,71.8,191,4.64,,33,,,,9,170,18.9,3,0,0,0,N
+2009,asher allen,Georgia,CB,69.5,194,4.48,22,35,115,4.3,6.93,3,4,1.3,0,0,0,0,Y
+2009,kevin barnes,Maryland,CB,72.25,187,4.45,,38.5,128,3.96,6.72,6,82,13.7,0,0,0,0,Y
+2009,joe burnett,Central Florida,CB,69.38,192,4.58,22,35.5,118,4.25,6.68,16,262,16.4,0,0,0,0,Y
+2009,darius butler,Connecticut,CB,70.38,183,4.41,,43,134,4.18,6.92,10,213,21.3,2,0,0,0,Y
+2009,don carey,Norfolk State (VA),CB,71.25,192,4.49,18,,,,,,,,,0,0,0,Y
+2009,vontae davis,Illinois,CB,71.13,203,4.4,25,36,125,4.07,6.75,7,12,1.7,0,0,0,0,Y
+2009,bradley fletcher,Iowa,CB,72.38,196,4.47,20,38.5,122,4.29,7.04,5,5,1,0,0,0,0,Y
+2009,coye francies,San Jose State,CB,72.38,185,4.63,24,36,123,4.24,6.81,3,17,5.7,0,0,0,0,Y
+2009,cary harris,Southern California,CB,71.38,187,4.58,18,,,,,5,14,2.8,0,0,0,0,Y
+2009,victor harris,Virginia Tech,CB,71.25,198,4.68,,33.5,118,3.98,6.68,15,278,18.5,4,0,0,0,Y
+2009,brandon hughes,Oregon State,CB,70.5,182,4.4,8,36.5,128,4.23,6.9,3,4,1.3,0,0,0,0,Y
+2009,malcolm jenkins,Ohio State,CB,72.13,204,4.51,15,33,124,4.08,6.59,11,159,14.5,2,1,1,1,Y
+2009,bruce johnson,Miami (FL),CB,69.5,170,4.49,6,34.5,125,4.05,6.71,2,0,0,0,0,0,0,N
+2009,domonique johnson,Jackson State (MS),CB,74,198,4.5,7,32,116,4.3,7,2,13,6.5,0,0,0,0,N
+2009,keenan lewis,Oregon State,CB,73,195,4.47,19,33.5,123,,,7,72,10.3,1,0,0,0,Y
+2009,sherrod martin,Troy (AL),CB,73,198,4.43,12,36,123,3.98,6.6,9,73,8.1,0,0,0,0,Y
+2009,dj moore,Vanderbilt,CB,68.88,192,4.56,17,39.5,118,4.28,7.01,13,109,8.4,1,0,0,0,Y
+2009,ryan mouton,Hawaii,CB,69,187,4.51,18,39.5,129,,,3,150,50,1,0,0,0,Y
+2009,captain munnerlyn,South Carolina,CB,68.5,182,4.51,19,37.5,121,4.2,7.15,5,39,7.8,0,0,0,0,Y
+2009,christopher owens,San Jose State,CB,69.75,181,4.44,14,34.5,110,4.16,6.93,13,132,10.2,0,0,0,0,Y
+2009,ryan palmer,Texas,CB,68.13,190,4.54,16,36.5,121,4.29,7.12,4,52,13,1,0,0,0,N
+2009,jerraud powers,Auburn,CB,69.13,188,4.51,15,36.5,122,4.08,7.09,6,35,5.8,0,0,0,0,Y
+2009,lydell sargeant,Penn State,CB,68.88,190,4.49,15,35,117,4.21,7,7,93,13.3,0,0,0,0,N
+2009,alphonso smith,Wake Forest,CB,69,193,4.47,13,34,125,4.38,7.09,21,254,12.1,4,1,1,1,Y
+2009,deangelo smith,Cincinnati,CB,70.63,194,4.5,17,31.5,109,4.35,7.27,12,179,14.9,2,0,0,0,Y
+2009,sean smith,Utah,CB,75.5,214,4.5,10,34,119,4.15,6.92,9,151,16.8,1,0,0,0,Y
+2009,morgan trent,Michigan,CB,72.63,193,4.5,23,38,127,4.01,7.05,7,3,0.4,0,0,0,0,Y
+2009,donald washington,Ohio State,CB,72.25,197,4.5,9,45,135,4.2,6.84,2,104,52,1,0,0,0,Y
+2009,lardarius webb,Nicholls State (LA),CB,69.75,179,4.35,15,36.5,121,4.1,6.77,,,,,0,0,0,Y
+2009,jahi worddaniels,Georgia Tech,CB,72,197,4.59,24,35.5,122,,,,,,,0,0,0,N
+2009,deandre wright,New Mexico,CB,71,198,4.52,17,34.5,122,4.44,7,10,150,15,0,0,0,0,Y
+2010,javier arenas,Alabama,CB,68.63,197,4.6,,,112,,,6,88,14.7,1,1,1,1,Y
+2010,cornelius brown,Texas-El Paso,CB,70.88,198,4.59,11,31.5,118,4.24,6.87,7,123,17.6,0,0,0,0,N
+2010,crezdon butler,Clemson,CB,71.75,191,4.43,17,39.5,121,4.23,7.08,11,243,22.1,0,0,0,0,Y
+2010,chris chancellor,Clemson,CB,69.13,177,4.49,14,34,115,4.07,6.85,9,120,13.3,0,0,0,0,N
+2010,chris cook,Virginia,CB,74,212,4.45,7,38,132,4.23,6.88,7,121,17.3,1,0,0,0,Y
+2010,perrish cox,Oklahoma State,CB,71.38,195,4.58,12,32.5,113,,,10,33,3.3,0,0,0,0,Y
+2010,dominique franks,Oklahoma,CB,71,194,4.46,10,33.5,117,4.33,7.32,6,149,24.8,2,0,0,0,Y
+2010,brandon ghee,Wake Forest,CB,71.63,192,4.37,15,37,127,4.07,6.75,1,0,0,0,0,0,0,Y
+2010,joe haden,Florida,CB,70.75,193,4.52,18,35,125,4.34,6.94,8,166,20.8,0,1,1,1,Y
+2010,chris hawkins,Louisiana State,CB,72.13,187,4.43,16,35,118,4.46,6.91,5,-7,-1.4,0,0,0,0,N
+2010,brian jackson,Oklahoma,CB,72.63,202,4.65,20,35.5,120,4.22,6.76,7,45,6.4,0,0,0,0,N
+2010,kareem jackson,Alabama,CB,70.5,196,4.4,13,37.5,118,4.14,6.92,5,164,32.8,0,0,0,0,Y
+2010,aj jefferson,Frenso State (CA),CB,72.13,193,4.42,7,44,126,4,6.72,,,,,0,0,0,N
+2010,trevard lindley,Kentucky,CB,71.25,183,4.51,9,38.5,116,4.27,6.81,10,113,11.3,2,0,0,0,Y
+2010,devin mccourty,Rutgers,CB,70.75,193,4.38,16,36,126,4.07,6.7,6,105,17.5,2,0,0,0,Y
+2010,joshua moore,Kansas State,CB,70.88,188,4.5,2,36.5,122,4.07,6.74,6,27,4.5,0,0,0,0,Y
+2010,jerome murphy,South Florida,CB,72.25,196,4.5,16,38,127,4.05,6.87,8,70,8.8,0,0,0,0,Y
+2010,akwasi owusuansah,Indiana (PA),CB,72.25,207,4.32,,35.5,120,4.32,6.84,,,,,0,0,0,Y
+2010,david pender,Purdue,CB,72,180,4.37,8,39,124,,,3,0,0,0,0,0,0,N
+2010,patrick robinson,Florida State,CB,71.25,190,4.46,15,39,122,,6.78,7,87,12.4,0,0,0,0,Y
+2010,devin ross,Arizona,CB,70,183,4.64,16,40,119,,7.07,5,71,14.2,1,0,0,0,N
+2010,amari spievey,Iowa,CB,70.88,195,4.52,,35,116,,,6,127,21.2,1,0,0,0,Y
+2010,earl thomas,Texas,CB,70,202,4.43,21,,113,,,10,149,14.9,2,1,1,1,Y
+2010,kevin thomas,Southern California,CB,72,192,4.41,19,34.5,126,4.18,6.82,3,53,17.7,1,0,0,0,Y
+2010,sydquan thompson,California,CB,69.25,186,4.62,,33,117,4.26,6.73,7,204,29.1,0,0,0,0,Y
+2010,alterraun verner,UCLA,CB,70.13,189,4.52,11,32,116,4.12,6.7,13,357,27.5,4,0,0,0,Y
+2010,jamar wall,Texas Tech,CB,70.25,204,4.52,15,,,,,9,45,5,0,0,0,0,Y
+2010,kyle wilson,Boise State,CB,70,194,4.43,25,,,,,11,139,12.6,2,0,0,0,Y
+2011,cortez allen,Citadel (SC),CB,73.25,197,4.5,18,35.5,129,4.01,6.76,,,,,0,0,0,Y
+2011,prince amukamara,Nebraska,CB,72,206,4.38,15,38,128,4.08,6.97,5,63,12.6,0,1,1,1,Y
+2011,niles brinkley,Wisconsin,CB,69.5,193,4.54,15,33.5,120,,7.23,6,69,11.5,0,0,0,0,N
+2011,chykie brown,Texas,CB,71.25,190,4.49,,36.5,120,4,6.5,2,15,7.5,0,0,0,0,Y
+2011,curtis brown,Texas,CB,71.63,185,4.51,10,39.5,128,4,6.59,2,151,75.5,1,0,0,0,Y
+2011,jalil brown,Colorado,CB,72.63,204,4.52,24,35.5,116,4.25,6.85,6,90,15,0,0,0,0,Y
+2011,kendric burney,North Carolina,CB,69.38,186,4.71,14,32.5,112,,,11,358,32.5,3,0,0,0,N
+2011,brandon burton,Utah,CB,71.63,190,4.5,18,32,118,4.07,6.93,3,69,23,0,0,0,0,Y
+2011,mario butler,Georgia Tech,CB,72.13,182,4.65,,30.5,120,4.37,7.09,4,87,21.8,1,0,0,0,N
+2011,rashad carmichael,Virginia Tech,CB,70,192,4.53,13,31,116,4.06,6.69,10,158,15.8,2,0,0,0,Y
+2011,chimdi chekwa,Ohio State,CB,71.75,191,4.38,,34.5,126,,,6,50,8.3,0,0,0,0,Y
+2011,vance cuff,Georgia,CB,70,178,4.53,,36,120,4.09,6.91,1,30,30,1,0,0,0,N
+2011,rasi dowling,Virginia,CB,73.38,198,4.4,19,,,,,,,,,0,0,0,Y
+2011,marcus gilchrist,Clemson,CB,70,195,4.45,26,38.5,119,4.12,6.81,1,0,0,0,0,0,0,Y
+2011,brandon harris,Miami (FL),CB,69.5,191,4.46,13,35.5,113,4.12,6.77,4,35,8.8,0,0,0,0,Y
+2011,brandon hogan,West Virginia,CB,70.25,192,4.43,19,,,,,7,156,22.3,0,0,0,0,Y
+2011,davon house,New Mexico State,CB,72.5,200,4.44,14,33.5,109,4.12,6.65,11,319,29,3,0,0,0,Y
+2011,curtis marsh,Utah State,CB,72.5,197,4.42,12,37.5,123,4.07,6.87,3,0,0,0,0,0,0,Y
+2011,byron maxwell,Clemson,CB,72.25,202,4.43,24,33,124,,,4,4,1,0,0,0,0,Y
+2011,andrew mcgee,Oklahoma State,CB,71.25,195,4.71,,34,117,,,6,90,15,0,0,0,0,N
+2011,johnny patrick,Louisville,CB,70.63,191,4.59,13,32,110,4.16,,9,102,11.3,1,0,0,0,Y
+2011,patrick peterson,Louisiana State,CB,72.25,219,4.31,15,38,126,4.07,6.58,7,171,24.4,1,1,1,1,Y
+2011,justin rogers,Richmond (VA),CB,70.5,180,4.45,14,33,114,4.2,7.21,,,,,0,0,0,Y
+2011,chris rucker,Michigan State,CB,72.5,195,4.55,10,,,,,,,,,0,0,0,Y
+2011,kevin rutland,Missouri,CB,71.63,190,4.58,12,35.5,115,4.15,6.92,6,76,12.7,0,0,0,0,N
+2011,richard sherman,Stanford,CB,74.63,195,4.54,16,38,125,4.33,6.82,6,82,13.7,1,0,0,0,Y
+2011,buster skrine,Tennessee-Chattanooga,CB,69.5,186,4.37,20,37,122,3.9,6.44,,,,,0,0,0,Y
+2011,jimmy smith,Colorado,CB,74.25,211,4.42,24,36,123,4.06,6.93,3,41,13.7,1,0,0,0,Y
+2011,josh thomas,Buffalo,CB,70.25,191,4.46,13,38.5,126,4.15,6.99,2,22,11,0,0,0,0,Y
+2011,brandyn thompson,Boise State,CB,69.25,189,4.5,13,33.5,114,4.12,6.66,13,130,10,1,0,0,0,Y
+2011,devon torrence,Ohio State,CB,71.63,199,4.68,,33,111,4.09,6.95,4,78,19.5,1,0,0,0,N
+2011,demarcus van dyke,Miami (FL),CB,72.75,176,4.25,5,33.5,,4.09,6.97,3,69,23,0,0,0,0,Y
+2011,aaron williams,Texas,CB,71.88,204,4.55,18,37.5,127,4.07,6.72,4,81,20.3,1,0,0,0,Y
+2011,shareece wright,Southern California,CB,71,185,4.41,16,34.5,113,,,1,0,0,0,0,0,0,Y
+2012,dwight bentley,Louisiana-Lafayette,CB,70,182,4.42,13,31.5,114,4.5,6.99,7,198,28.3,3,0,0,0,Y
+2012,robert blanton,Notre Dame,CB,72.75,208,4.66,12,34,116,3.97,6.71,8,128,16,1,0,0,0,Y
+2012,omar bolden,Arizona State,CB,70.38,202,4.54,24,,,,,7,114,16.3,2,0,0,0,Y
+2012,brandon boykin,Georgia,CB,69.5,182,4.44,,,,,,9,36,4,0,0,0,0,Y
+2012,ron brooks,Louisiana State,CB,70,190,4.37,12,38,120,,,3,106,35.3,3,0,0,0,Y
+2012,charles brown,North Carolina,CB,69,202,4.53,18,35.5,114,4.06,6.94,8,193,24.1,1,0,0,0,N
+2012,morris claiborne,Louisiana State,CB,71.13,188,4.5,,34.5,118,4.12,7.01,11,274,24.9,1,1,1,1,Y
+2012,alfonzo dennard,Nebraska,CB,70,204,4.48,,37,121,,,4,31,7.8,1,0,0,0,Y
+2012,antonio fenelus,Wisconsin,CB,67.88,190,4.57,20,32,109,4.2,6.8,9,55,6.1,1,0,0,0,N
+2012,jamell fleming,Oklahoma,CB,70.63,206,4.43,23,34,125,3.97,6.71,7,82,11.7,1,0,0,0,Y
+2012,terrence frederick,Texas A&M,CB,70.13,187,4.44,16,35,121,4.03,6.59,4,92,23,0,0,0,0,Y
+2012,stephon gilmore,South Carolina,CB,72.5,190,4.38,15,36,123,3.94,6.61,8,86,10.8,1,0,0,0,Y
+2012,cliff harris,Oregon,CB,71.13,175,4.61,14,36,118,4.19,6.79,8,142,17.8,1,1,1,1,N
+2012,mike harris,Florida State,CB,70.25,188,4.52,,36,117,4.07,6.81,5,101,20.2,0,0,0,0,Y
+2012,casey hayward,Vanderbilt,CB,71.38,192,4.47,19,34,119,3.9,6.76,15,126,8.4,1,0,0,0,Y
+2012,jayron hosley,Virginia Tech,CB,70,178,4.38,11,,,,,12,166,13.8,0,0,0,0,Y
+2012,asa jackson,Cal Poly,CB,70,191,4.48,19,34.5,118,4.03,6.97,,,,,0,0,0,Y
+2012,janoris jenkins,North Alabama,CB,70,193,4.41,,33.5,121,4.13,6.95,8,91,11.4,1,0,0,0,Y
+2012,leonard johnson,Iowa State,CB,69.88,196,4.62,15,32,120,4.15,6.96,6,6,1,0,0,0,0,N
+2012,trumaine johnson,Montana,CB,73.88,204,4.5,19,35.5,122,4.15,7.2,,,,,0,0,0,Y
+2012,jeremy jones,Wayne State (MI),CB,69.5,197,4.56,20,31.5,116,4.18,7.14,,,,,0,0,0,N
+2012,coryell judie,Texas A&M,CB,71.75,194,4.45,,37,126,4.25,7.33,4,31,7.8,0,0,0,0,N
+2012,dre kirkpatrick,Alabama,CB,73.63,186,4.5,,35,120,,,3,30,10,0,0,0,0,Y
+2012,jeremy lane,Northwestern State (LA),CB,73,190,4.52,,,,,,,,,,0,0,0,Y
+2012,danton lynn,Penn State,CB,71.88,206,4.71,17,31.5,111,,,4,58,14.5,0,0,0,0,N
+2012,dequan menzie,Alabama,CB,70.75,202,4.65,,33,116,,,1,25,25,1,0,0,0,Y
+2012,chase minnifield,Virginia,CB,70.38,183,4.65,7,,,,,13,164,12.6,1,0,0,0,N
+2012,josh norman,Coastal Carolina (SC),CB,72.25,197,4.61,14,33,124,4.23,7.09,,,,,0,0,0,Y
+2012,micah pellerin,Hampton (VA),CB,72.38,194,4.52,14,33,116,,,,,,,0,0,0,N
+2012,chaz powell,Penn State,CB,72.38,203,4.42,17,33,121,4.16,6.84,2,26,13,0,0,0,0,N
+2012,shaun prater,Iowa,CB,70.13,190,4.52,14,,,,,7,173,24.7,2,0,0,0,Y
+2012,deandre presley,Appalachian State (NC),CB,69.88,185,4.53,8,32,114,4.28,7.19,,,,,0,0,0,N
+2012,antwuan reed,Pittsburgh,CB,69.75,188,4.58,14,36.5,124,4.2,,2,0,0,0,0,0,0,N
+2012,josh robinson,Central Florida,CB,70.13,199,4.29,17,38.5,133,3.97,6.55,10,147,14.7,2,0,0,0,Y
+2012,coty sensabaugh,Clemson,CB,71.25,189,4.33,15,37,122,4.06,6.6,4,11,2.8,0,0,0,0,Y
+2012,ryan steed,Furman (SC),CB,70.5,195,4.64,12,34,121,4.22,6.94,,,,,0,0,0,N
+2012,trevin wade,Arizona,CB,70,192,4.52,18,34.5,116,4,6.87,12,203,16.9,2,0,0,0,Y
+2013,johnny adams,Michigan State,CB,70.25,185,4.48,16,,,,,11,230,20.9,2,0,0,0,N
+2013,robert alford,Southeast Louisiana,CB,70.13,188,4.39,17,40,132,4.23,6.89,,,,,0,0,0,Y
+2013,david amerson,North Carolina State,CB,73,205,4.44,15,35.5,127,,,18,287,15.9,3,0,0,0,Y
+2013,marc anthony,California,CB,71.38,196,4.63,12,35,118,4.07,6.74,5,96,19.2,1,0,0,0,Y
+2013,johnthan banks,Mississippi State,CB,74,185,4.61,10,34,125,4.27,6.97,16,320,20,3,0,0,1,Y
+2013,adrian bushell,Louisville,CB,69.38,186,4.58,17,33,116,4.25,6.92,2,0,0,0,0,0,0,N
+2013,sanders commings,Georgia,CB,72.13,216,4.41,,34.5,117,4.3,7.1,8,56,7,0,0,0,0,Y
+2013,will davis,Utah State,CB,71.25,186,4.51,16,35.5,127,4.02,6.52,5,100,20,1,0,0,0,Y
+2013,mike edwards,Hawaii,CB,69,189,4.56,14,36,124,4.18,6.94,3,0,0,0,0,0,0,N
+2013,dwayne gratz,Connecticut,CB,71.13,201,4.47,22,38,125,4.15,6.7,8,152,19,2,0,0,0,Y
+2013,terry hawthorne,Illinois,CB,71.75,195,4.44,13,35.5,116,,,6,83,13.8,2,0,0,0,Y
+2013,aaron hester,UCLA,CB,73.63,198,4.62,,29,112,4.33,7.26,5,14,2.8,0,0,0,0,N
+2013,micah hyde,Iowa,CB,71.75,197,4.56,12,33,121,4.2,6.78,8,142,17.8,2,0,0,0,Y
+2013,josh johnson,Purdue,CB,69.38,199,4.65,16,35,114,4.25,6.99,6,87,14.5,1,0,0,0,N
+2013,tyrann mathieu,Louisiana State,CB,68.75,186,4.5,4,34,117,4.14,6.87,4,16,4,0,1,1,1,Y
+2013,demetrius mccray,Appalachian State (NC),CB,72.88,187,4.54,4,36,126,4.32,7.17,0,0,,0,0,0,0,Y
+2013,leon mcfadden,San Diego State,CB,69.63,193,4.54,10,34.5,119,4.27,6.81,8,186,23.3,2,0,0,0,Y
+2013,brandon mcgee,Miami (FL),CB,71,193,4.4,14,33.5,119,4.18,6.71,3,41,13.7,0,0,0,0,Y
+2013,dee milliner,Alabama,CB,71.88,201,4.37,,36,122,4.32,6.95,6,107,17.8,1,0,0,0,Y
+2013,jordan poyer,Oregon State,CB,71.88,191,4.54,8,30.5,118,4.18,6.87,13,243,18.7,3,1,1,1,Y
+2013,greg reid,Valdosta State (GA),CB,68.25,190,4.46,10,,,,,7,103,14.7,1,0,0,0,N
+2013,xavier rhodes,Florida State,CB,73.5,210,4.43,14,40.5,132,,,8,54,6.8,0,0,0,0,Y
+2013,nickell robey,Southern California,CB,67.25,169,4.53,10,37.5,127,4.09,6.74,7,110,15.7,3,0,0,0,N
+2013,logan ryan,Rutgers,CB,71.13,191,4.56,14,32.5,116,4.06,6.69,7,73,10.4,1,0,0,0,Y
+2013,tharold simon,Louisiana State,CB,74,202,4.51,9,34,128,,,7,41,5.9,0,0,0,0,Y
+2013,darius slay,Mississippi State,CB,71.88,192,4.36,14,35.5,124,4.21,6.9,6,173,28.8,2,0,0,0,Y
+2013,dax swanson,Sam Houston State (TX),CB,70,186,4.56,15,33,122,,,,,,,0,0,0,N
+2013,rod sweeting,Georgia Tech,CB,71.25,189,4.42,11,37,124,,,5,58,11.6,1,0,0,0,N
+2013,jamar taylor,Boise State,CB,70.63,192,4.39,22,35,127,4.06,6.82,7,154,22,1,0,0,0,Y
+2013,desmond trufant,Washington,CB,71.63,190,4.38,16,37.5,125,3.85,,6,57,9.5,0,0,0,0,Y
+2013,bw webb,William & Mary (VA),CB,70.25,184,4.51,14,40.5,132,3.84,6.82,,,,,0,0,0,Y
+2013,kayvon webster,South Florida,CB,70.5,195,4.41,14,35,125,,,3,34,11.3,0,0,0,0,Y
+2013,steve williams,California,CB,68.88,181,4.42,12,40.5,128,4.1,6.89,6,45,7.5,0,0,0,0,Y
+2013,khalid wooten,Nevada,CB,71,210,4.53,17,33.5,117,4.18,6.95,10,206,20.6,2,0,0,0,Y
+2013,blidi wrehwilson,Connecticut,CB,73,195,4.53,14,36,128,4.12,6.97,,,,,0,0,0,Y
+2014,ricardo allen,Purdue,CB,69.13,187,4.61,13,35.5,116,4.15,,13,247,19,4,0,0,0,Y
+2014,deion belue,Alabama,CB,70.75,182,4.48,11,,,,,3,43,14.3,0,0,0,0,N
+2014,bene benwikere,San Jose State,CB,70.75,195,4.63,10,40.5,122,4.38,6.94,14,213,15.2,1,0,0,0,Y
+2014,bashaud breeland,Clemson,CB,71.38,197,4.62,11,34.5,123,4.33,7.04,6,142,23.7,0,0,0,0,Y
+2014,travis carrie,Ohio,CB,71.63,206,4.49,17,,,,,9,190,21.1,2,0,0,0,Y
+2014,ross cockrell,Duke,CB,72,191,4.56,10,36.5,122,4.32,7.28,12,80,6.7,1,0,0,0,Y
+2014,chris davis,Auburn,CB,69.88,202,4.54,15,,,,,0,0,,0,0,0,0,N
+2014,darqueze dennard,Michigan State,CB,70.88,199,4.52,15,,,,,10,125,12.5,1,1,1,1,Y
+2014,pierre desir,Lindenwood (MO),CB,73,198,4.59,11,35,133,4.3,6.86,,,,,0,0,0,Y
+2014,brandon dixon,Northwest Missouri State,CB,71.5,203,4.41,17,32.5,116,4.27,7.15,,,,,0,0,0,Y
+2014,antone exum,Virginia Tech,CB,71.63,213,4.59,17,35,116,4.13,7.05,6,80,13.3,0,0,0,0,Y
+2014,kyle fuller,Virginia Tech,CB,71.75,190,4.49,12,38.5,127,4.19,6.9,6,10,1.7,0,0,0,0,Y
+2014,ej gaines,Missouri,CB,69.63,190,4.44,15,,,,,8,71,8.9,0,0,0,0,Y
+2014,phillip gaines,Rice (TX),CB,72.38,193,4.38,11,36.5,122,4.04,6.62,4,2,0.5,0,0,0,0,Y
+2014,justin gilbert,Oklahoma State,CB,72.13,202,4.37,20,35.5,125,,6.92,12,180,15,2,1,1,1,Y
+2014,demetri goodson,Baylor,CB,71,194,4.52,11,37,123,4.34,6.8,4,77,19.3,0,0,0,0,Y
+2014,andre hal,Vanderbilt,CB,70.38,188,4.5,15,35.5,117,4.27,7.14,6,129,21.5,0,0,0,0,Y
+2014,victor hampton,South Carolina,CB,69,197,4.69,20,33.5,116,4.2,7.01,5,26,5.2,0,0,0,0,N
+2014,bennett jackson,Notre Dame,CB,71.88,195,4.51,13,38,127,4,6.75,6,91,15.2,1,0,0,0,Y
+2014,kendall james,Maine,CB,70.5,180,4.44,9,39,,4.19,6.81,,,,,0,0,0,Y
+2014,stanley jeanbaptiste,Nebraska,CB,74.63,218,4.61,13,41.5,127,4.33,,,,,,0,0,0,Y
+2014,lamarcus joyner,Florida State,CB,68,184,4.55,14,37.5,123,4.4,7.26,8,80,10,0,1,1,1,Y
+2014,nevin lawson,Utah State,CB,69.5,190,4.48,16,33,120,4.4,7.12,6,65,10.8,1,0,0,0,Y
+2014,keith mcgill,Utah,CB,75.38,211,4.51,,39,128,4.18,7.29,1,19,19,1,0,0,0,Y
+2014,terrance mitchell,Oregon,CB,71.13,192,4.63,,34,116,4,6.57,7,108,15.4,1,0,0,0,Y
+2014,jabari price,North Carolina,CB,70.63,200,4.45,16,,,4.3,7.04,2,29,14.5,0,0,0,0,Y
+2014,loucheiz purifoy,Florida,CB,71.5,190,4.61,6,35.5,120,,,2,42,21,1,0,0,0,N
+2014,keith reaser,Florida Atlantic,CB,70.75,189,4.43,22,,,,,5,66,13.2,0,0,0,0,Y
+2014,rashaad reynolds,Oregon State,CB,69.88,189,4.51,20,37.5,123,4,6.72,10,115,11.5,0,0,0,0,N
+2014,marcus roberson,Florida,CB,72.25,191,4.61,8,37.5,120,4.08,6.84,3,31,10.3,0,0,0,0,N
+2014,bradley roby,Ohio State,CB,71.25,194,4.39,17,38.5,123,4.04,,8,226,28.3,2,0,0,0,Y
+2014,jason verrett,Texas Christian,CB,69.5,189,4.38,,39,127,4,6.69,9,35,3.9,0,1,0,1,Y
+2014,todd washington,Southeast Louisiana,CB,71.38,196,4.57,13,,,,,2,13,6.5,0,0,0,0,N
+2014,jaylen watkins,Florida,CB,71.5,194,4.41,22,,,,,3,44,14.7,1,0,0,0,Y
+2014,lavelle westbrooks,Georgia Southern,CB,71,186,4.63,15,36,121,4.27,6.98,,,,,0,0,0,Y
+2015,alex carter,Stanford,CB,72.13,196,4.51,17,40,121,4.07,7.05,2,0,0,0,0,0,0,Y
+2015,justin coleman,Tennessee,CB,70.63,185,4.53,20,37.5,124,3.98,6.61,5,106,21.2,1,0,0,0,N
+2015,jalen collins,Louisiana State,CB,73.5,203,4.48,,36,124,4.27,6.77,3,13,4.3,0,0,0,0,Y
+2015,justin cox,Mississippi State,CB,72.63,191,4.36,15,38,129,4.07,7.05,2,0,0,0,0,0,0,N
+2015,ronald darby,Florida State,CB,70.63,193,4.38,12,41.5,129,4.14,6.94,2,16,8,0,0,0,0,Y
+2015,quandre diggs,Texas,CB,69.13,196,4.56,17,35.5,113,4.15,7.22,11,28,2.5,0,0,0,0,Y
+2015,lorenzo doss,Tulane (LA),CB,70.38,182,4.5,9,33.5,115,4.26,7.2,15,271,18.1,2,0,0,0,Y
+2015,charles gaines,Louisville,CB,69.88,180,4.44,,34.5,123,4.2,7.07,7,118,16.9,1,0,0,0,Y
+2015,jacoby glenn,Central Florida,CB,72,179,4.64,,34,123,4.26,6.97,9,64,7.1,0,1,0,1,N
+2015,senquez golson,Mississippi,CB,68.63,176,4.46,15,33.5,120,4.2,6.81,16,232,14.5,1,1,1,1,Y
+2015,doran grant,Ohio State,CB,70.25,200,4.44,21,33,116,4.33,,9,146,16.2,1,0,0,0,Y
+2015,ladarius gunter,Miami (FL),CB,73.5,202,4.69,12,33.5,108,4.41,7.18,6,151,25.2,1,0,0,0,N
+2015,troy hill,Oregon,CB,70,182,4.55,,32.5,120,4.21,6.81,3,96,32,1,0,0,0,N
+2015,kevin johnson,Wake Forest,CB,72.25,188,4.52,,41.5,130,3.89,6.79,7,49,7,0,0,0,0,Y
+2015,byron jones,Connecticut,CB,72.63,199,4.49,,44.5,147,3.94,6.78,8,77,9.6,1,0,0,0,Y
+2015,craig mager,Texas State,CB,71.5,201,4.44,17,38,130,4.07,6.83,7,21,3,0,0,0,0,Y
+2015,nick marshall,Auburn,CB,73.5,207,4.54,12,37.5,124,4.15,6.96,0,0,,0,0,0,0,N
+2015,bobby mccain,Memphis,CB,69.5,195,4.51,17,36,130,3.82,6.8,12,246,20.5,4,0,0,0,Y
+2015,steven nelson,Oregon State,CB,70.13,197,4.49,19,34.5,115,4.07,6.88,8,26,3.3,1,0,0,0,Y
+2015,garry peters,Clemson,CB,71.75,191,4.61,7,32.5,119,4,6.8,2,15,7.5,0,0,0,0,N
+2015,marcus peters,Washington,CB,71.63,197,4.53,17,37.5,121,4.08,7.08,11,72,6.5,1,0,0,0,Y
+2015,quinten rollins,Miami (OH),CB,71.13,195,4.57,14,36.5,122,4.28,7.1,7,35,5,1,1,0,1,Y
+2015,eric rowe,Utah,CB,72.75,205,4.45,19,39,125,3.97,6.7,3,18,6,1,0,0,0,Y
+2015,josh shaw,Southern California,CB,72.5,201,4.44,26,37.5,130,4.12,7.01,4,51,12.8,0,0,0,0,Y
+2015,jacorey shepherd,Kansas,CB,70.88,199,4.54,14,,,,,5,32,6.4,1,0,0,0,Y
+2015,tye smith,Towson (MD),CB,72.13,195,4.6,15,36.5,124,3.96,6.97,,,,,0,0,0,Y
+2015,damian swann,Georgia,CB,72,189,4.5,,33,118,,,8,79,9.9,0,0,0,0,Y
+2015,trae waynes,Michigan State,CB,72.13,186,4.31,19,38,122,4.39,7.06,6,11,1.8,0,0,0,0,Y
+2015,kevin white,Texas Christian,CB,69.13,183,4.63,18,35.5,121,4.14,6.92,6,62,10.3,0,0,0,0,Y
+2015,julian wilson,Oklahoma,CB,74,205,4.58,,36,125,4.22,6.94,4,100,25,1,0,0,0,N
+2016,mackensie alexander,Clemson,CB,70.38,190,,11,,,,,0,0,,0,0,0,0,Y
+2016,eli apple,Ohio State,CB,72.63,199,4.4,13,,,,,4,16,4,0,0,0,0,Y
+2016,briean boddycalhoun,Minnesota,CB,69.5,193,4.47,10,35,123,4.22,7.16,,,,,0,0,0,N
+2016,james bradberry,Samford (AL),CB,72.75,211,4.5,16,36,124,4.21,6.91,,,,,0,0,0,Y
+2016,anthony brown,Purdue,CB,71.25,192,4.33,19,35,115,4.19,7.03,4,4,1,0,0,0,0,Y
+2016,artie burns,Miami (FL),CB,71.88,193,4.46,,31.5,,,,7,37,5.3,0,0,0,0,Y
+2016,juston burris,North Carolina State,CB,72.25,212,4.53,19,36.5,122,4.4,7.1,3,6,2,0,0,0,0,Y
+2016,taveze calhoun,Mississippi State,CB,72.38,192,4.58,14,33.5,,,,6,98,16.3,0,0,0,0,N
+2016,maurice canady,Virginia,CB,73,193,4.49,16,38,124,4.09,7.03,5,108,21.6,1,0,0,0,Y
+2016,ken crawley,Colorado,CB,72.38,187,4.43,,36.5,119,,,3,12,4,0,0,0,0,N
+2016,deandre elliott,Colorado State,CB,72.88,188,4.55,,41,125,3.94,6.93,7,124,17.7,1,0,0,0,N
+2016,kendall fuller,Virginia Tech,CB,71.5,187,,15,,,,,8,48,6,1,0,0,0,Y
+2016,deiondre hall,Northern Iowa,CB,73.63,199,4.68,,37,127,4.06,7.07,,,,,0,0,0,Y
+2016,vernon hargreaves,Florida,CB,70.5,204,4.5,15,39,130,3.98,,10,191,19.1,0,1,1,1,Y
+2016,devante harris,Texas A&M,CB,70.63,176,4.56,,38.5,124,4.06,6.82,5,70,14,1,0,0,0,N
+2016,xavien howard,Baylor,CB,72.13,201,4.58,11,33,122,4.15,7.18,10,121,12.1,0,0,0,0,Y
+2016,william jackson,Houston,CB,72.38,189,4.37,10,,116,,,3,101,33.7,1,0,0,0,N
+2016,cyrus jones,Alabama,CB,69.88,197,4.49,10,33,116,4.21,6.71,5,28,5.6,0,0,0,0,Y
+2016,jonathan jones,Auburn,CB,69.13,186,4.33,19,36,123,4.25,7.25,7,35,5,0,0,0,0,N
+2016,harlan miller,Southeastern Louisiana,CB,71.88,182,4.65,6,35.5,118,4.43,7.44,,,,,0,0,0,Y
+2016,eric murray,Minnesota,CB,70.63,199,4.49,15,39.5,124,4.05,7.08,2,5,2.5,0,0,0,0,Y
+2016,kevin peterson,Oklahoma State,CB,70.38,181,4.58,14,35.5,121,4.31,6.94,5,55,11,0,0,0,0,N
+2016,jimmy pruitt,San Jose State,CB,71.63,198,4.73,19,32,117,,,8,112,14,1,0,0,0,N
+2016,rashard robinson,Louisiana State,CB,73.5,171,4.49,,35.5,121,,,1,0,0,0,0,0,0,Y
+2016,keivarae russell,Notre Dame,CB,71.13,192,,17,,,,,5,31,6.2,0,0,0,0,Y
+2016,zack sanchez,Oklahoma,CB,70.88,185,,19,35.5,116,,,15,220,14.7,3,0,0,0,Y
+2016,kevon seymour,Southern California,CB,71.5,186,4.39,12,35,124,4.18,,3,67,22.3,0,0,0,0,Y
+2016,leshaun sims,Southern Utah,CB,72.5,203,4.53,11,37,120,4.19,7.08,,,,,0,0,0,Y
+2016,ryan smith,North Carolina Central,CB,71,189,4.47,18,36,122,4.09,6.88,,,,,0,0,0,Y
+2016,cleveland wallace,San Jose State,CB,70.75,188,4.68,,35.5,123,,,5,82,16.4,1,0,0,0,N
+2016,dj white,Georgia Tech,CB,70.88,193,4.49,17,33,132,4.33,7.18,7,48,6.9,1,0,0,0,Y
+2016,daryl worley,West Virginia,CB,72.75,204,4.64,14,35.5,123,4.15,6.98,10,50,5,0,0,0,0,Y
+2016,tavon young,Temple,CB,69,183,4.46,9,34.5,118,3.93,6.8,7,157,22.4,1,0,0,0,Y
+2017,chidobe awuzie,Colorado,CB,71.75,202,4.43,16,34.5,132,4.14,6.81,3,40,13.3,0,0,0,0,Y
+2017,jeremy clark,Michigan,CB,75.13,220,,20,,,4.5,,3,20,6.7,0,0,0,0,Y
+2017,gareon conley,Ohio State,CB,72.25,195,4.44,11,37,129,4.18,6.68,6,0,0,0,0,0,0,Y
+2017,jeremy cutrer,Middle Tennessee State,CB,74,170,,,,,4.26,,6,113,18.8,0,0,0,0,N
+2017,treston decoud,Oregon State,CB,73.75,206,4.62,11,31,116,,,2,13,6.5,0,0,0,0,Y
+2017,rasul douglas,West Virginia,CB,74,209,4.59,16,33.5,120,4.26,6.97,9,101,11.2,1,0,0,0,Y
+2017,corn elder,Miami (FL),CB,70.13,183,4.55,,,,,,3,49,16.3,0,0,0,0,Y
+2017,nate hairston,Temple,CB,71.88,196,4.52,14,35.5,118,4.45,,,,,,0,0,0,Y
+2017,marlon humphrey,Alabama,CB,72.25,197,4.41,10,,125,4.28,6.75,5,46,9.2,1,0,0,0,Y
+2017,adoree jackson,Southern California,CB,69.75,186,4.42,,36,122,,,6,67,11.2,1,1,1,1,Y
+2017,sidney jones,Washington,CB,71.75,186,4.47,,33.5,123,4.28,7.02,8,147,18.4,1,0,0,0,Y
+2017,damontae kazee,San Diego State,CB,70.25,184,4.54,11,34,124,,,17,214,12.6,2,1,0,1,Y
+2017,desmond king,Iowa,CB,70.25,201,,14,34,117,4.18,6.67,14,231,16.5,3,1,1,1,Y
+2017,kevin king,Washington,CB,75.25,200,4.43,11,39.5,,3.89,6.56,6,6,1,0,0,0,0,Y
+2017,ashton lampkin,Oklahoma State,CB,72,189,4.52,19,34.5,120,4.21,,5,79,15.8,1,0,0,0,N
+2017,brendan langley,Lamar (TX),CB,72.25,201,4.43,22,35.5,123,4.21,7.06,0,0,,0,0,0,0,Y
+2017,marshon lattimore,Ohio State,CB,72,193,4.36,,38.5,132,4.12,,4,61,15.3,1,0,0,0,Y
+2017,jourdan lewis,Michigan,CB,70,188,4.54,15,34.5,121,,,6,50,8.3,1,1,1,1,Y
+2017,fabian moreau,UCLA,CB,71.88,206,4.35,,38,136,4.12,6.94,3,32,10.7,0,0,0,0,Y
+2017,jalen myrick,Minnesota,CB,69.63,200,4.28,13,37.5,124,4.22,7.06,5,61,12.2,2,0,0,0,Y
+2017,channing stribling,Michigan,CB,73,188,4.6,5,31.5,114,4.56,6.94,6,91,15.2,1,0,0,0,N
+2017,cameron sutton,Tennessee,CB,71,188,4.52,11,34,120,,6.81,7,35,5,1,0,0,0,Y
+2017,teez tabor,Florida,CB,72.25,199,4.62,9,31,120,,,,,,,0,0,0,Y
+2017,cordrea tankersley,Clemson,CB,72.75,199,4.4,13,29.5,121,4.32,7,9,72,8,1,0,0,0,Y
+2017,jack tocho,North Carolina State,CB,71.88,202,4.54,21,35,125,4.07,,6,58,9.7,0,0,0,0,Y
+2018,jaire alexander,Louisville,CB,71,192,4.38,14,35,127,3.98,6.71,7,42,6,0,0,0,0,Y
+2018,anthony averett,Alabama,CB,72,185,4.36,13,31.5,119,4.4,6.93,1,30,30,0,0,0,0,Y
+2018,tony brown,Alabama,CB,72,198,4.35,14,31.5,126,4.11,6.78,,,,,0,0,0,N
+2018,chris campbell,Penn State,CB,73,194,,14,,,,,,,,,0,0,0,Y
+2018,andre chachere,San Jose State,CB,72,200,4.49,13,38,123,4.07,6.78,7,169,24.1,0,0,0,0,N
+2018,carlton davis,Auburn,CB,73,203,4.53,16,34,124,,,4,0,0,0,0,0,0,Y
+2018,duke dawson,Florida,CB,70,208,4.46,15,,,,,6,127,21.2,3,0,0,0,Y
+2018,dee delaney,Miami (FL),CB,73,194,4.46,13,32.5,120,4.25,6.95,1,4,4,0,0,0,0,N
+2018,brandon facyson,Virginia Tech,CB,74,197,4.53,16,,,,,5,0,0,0,0,0,0,N
+2018,grant haley,Penn State,CB,69,190,4.44,15,34,119,3.94,6.51,5,76,15.2,1,0,0,0,N
+2018,davontae harris,Illinois State,CB,72,200,4.43,22,32.5,123,4.4,6.96,,,,,0,0,0,Y
+2018,holton hill,Texas,CB,75,200,4.49,14,31,120,4.15,6.83,3,117,39,3,0,0,0,N
+2018,mike hughes,Central Florida,CB,71,191,4.53,20,35.5,127,4.13,6.7,,,,,0,0,0,Y
+2018,donte jackson,Louisiana State,CB,71,175,4.32,7,,124,,,4,40,10,0,0,0,0,Y
+2018,jc jackson,Maryland,CB,71,193,4.46,14,35.5,120,,,4,10,2.5,0,0,0,0,N
+2018,josh jackson,Iowa,CB,73,192,4.56,18,38,123,4.03,6.86,8,168,21,2,1,1,1,N
+2018,danny johnson,Southern (LA),CB,70,185,4.44,15,35,123,,,0,0,,0,0,0,0,N
+2018,taron johnson,Weber State (UT),CB,72,180,4.5,17,33,118,4.28,7.03,,,,,0,0,0,Y
+2018,chris jones,Nebraska,CB,72,195,4.57,14,,,,,5,60,12,1,0,0,0,N
+2018,michael joseph,Dubuque (IA),CB,73,181,,17,34,,4.2,6.89,,,,,0,0,0,N
+2018,jamarcus king,South Carolina,CB,73,186,4.7,,,,,,5,0,0,0,0,0,0,N
+2018,avonte maddox,Pittsburgh,CB,69,180,4.39,13,37,125,4,6.51,8,63,7.9,2,0,0,0,Y
+2018,tarvarus mcfadden,Florida State,CB,74,198,4.67,,38.5,121,,,8,16,2,0,0,0,0,N
+2018,nick nelson,Wisconsin,CB,71,208,4.52,17,,123,,,,,,,0,0,0,Y
+2018,parry nickerson,Tulane (LA),CB,72,180,4.32,15,,,,,16,203,12.7,1,0,0,0,Y
+2018,isaiah oliver,Colorado,CB,73,190,4.5,,,,,,3,41,13.7,0,0,0,0,Y
+2018,darius phillips,Western Michigan,CB,70,190,4.54,,,,,,12,376,31.3,5,0,0,0,Y

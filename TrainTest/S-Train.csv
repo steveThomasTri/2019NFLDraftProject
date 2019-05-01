@@ -1,0 +1,516 @@
+year,name,college,position,height_in,weight_lbs,40yards,benchpress,vert_leap_in,broad_jump_in,shuttle,3cone,drafted
+1997,eric allen,Indiana,FS,72.0,205,4.78,,34.0,116.0,4.22,7.27,N
+1997,raymond austin,Tennessee,SS,70.6,190,4.8,12.0,32.5,111.0,4.05,7.14,Y
+1997,zack bronson,McNeese State (LA),FS,72.4,190,4.66,9.0,33.5,115.0,4.35,7.63,N
+1997,chris carter,Texas,FS,73.3,200,,16.0,,,,,Y
+1997,demontie cross,Missouri,SS,72.9,213,5.02,14.0,28.5,,4.36,7.45,N
+1997,charles emanuel,West Virginia,SS,71.3,203,4.78,17.0,33.0,110.0,4.23,7.64,N
+1997,terrell farley,Nebraska,SS,71.6,198,,6.0,,,,,N
+1997,sam garnes,Cincinnati,FS,75.1,225,4.78,14.0,30.5,102.0,4.38,7.48,Y
+1997,torrian gray,Virginia Tech,SS,71.6,203,4.5,22.0,,,,,Y
+1997,kenny harris,North Carolina State,SS,73.9,204,4.75,8.0,39.0,124.0,4.24,7.39,N
+1997,kim herring,Penn State,FS,71.4,199,4.6,11.0,32.0,116.0,4.11,7.12,Y
+1997,chris hewitt,Cincinnati,SS,71.9,212,4.78,10.0,,,,,N
+1997,rob kelly,Ohio State,FS,74.1,199,4.62,,30.5,107.0,4.03,7.3,Y
+1997,harold lusk,Utah,FS,71.4,197,4.76,12.0,36.0,110.0,4.45,7.3,N
+1997,tremain mack,Miami (FL),SS,71.9,200,4.54,,35.0,123.0,4.19,7.24,Y
+1997,mike minter,Nebraska,FS,70.1,188,4.5,11.0,36.0,122.0,4.0,7.23,Y
+1997,jason parker,Tennessee,FS,71.8,192,4.82,21.0,34.0,117.0,4.5,7.82,N
+1997,damien robinson,Iowa,FS,73.9,210,4.78,9.0,31.5,113.0,4.12,7.33,Y
+1997,steve rosga,Colorado,FS,73.0,215,4.79,,29.5,110.0,4.26,7.3,Y
+1997,darren sharper,William & Mary (VA),SS,73.8,206,4.64,16.0,39.0,121.0,4.24,6.97,Y
+1997,eric stokes,Nebraska,FS,71.1,192,4.63,13.0,37.5,117.0,3.98,7.27,Y
+1997,eric vance,Vanderbilt,SS,74.0,215,4.62,18.0,38.5,125.0,4.33,7.38,N
+1997,vann washington,West Virginia,FS,72.1,212,,14.0,34.0,115.0,4.21,7.53,N
+1997,cyrill weems,Wisconsin,SS,73.4,207,4.71,12.0,34.5,117.0,4.19,7.43,N
+1997,jamel williams,Nebraska,SS,72.6,204,4.6,11.0,38.0,123.0,4.15,7.25,Y
+1997,marcus wimberly,Miami (FL),FS,71.5,204,4.6,9.0,31.5,114.0,4.47,7.62,Y
+1997,sean woodson,Jackson State (MS),FS,72.6,214,4.83,18.0,32.5,119.0,4.3,7.58,Y
+1997,lawrence wright,Florida,SS,72.8,214,,20.0,,,,,N
+1998,jamaal alexander,Southern Mississippi,FS,70.8,200,4.48,,32.5,113.0,4.24,7.35,Y
+1998,ryan black,Colorado,FS,70.0,192,4.72,13.0,35.5,115.0,4.06,7.48,N
+1998,eric brown,Mississippi State,SS,72.3,208,4.53,12.0,40.5,125.0,4.06,7.08,Y
+1998,omar brown,North Carolina,SS,69.8,198,,14.0,39.5,115.0,4.12,,Y
+1998,kerry cooks,Iowa,SS,71.1,198,4.58,15.0,33.5,116.0,4.05,7.49,Y
+1998,donovin darius,Syracuse,FS,72.6,211,,,38.5,128.0,3.95,7.21,Y
+1998,scott frost,Nebraska,FS,74.8,219,4.62,,34.5,115.0,,7.18,Y
+1998,kadar hamilton,Stanford,SS,70.9,212,4.87,15.0,33.0,110.0,4.15,7.5,N
+1998,tebucky jones,Syracuse,SS,73.3,214,4.43,,38.5,120.0,3.94,7.34,Y
+1998,lloyd lee,Dartmouth (NH),SS,73.4,207,4.58,18.0,33.5,117.0,3.93,7.08,N
+1998,robert mcquarters,Oklahoma State,FS,69.6,193,4.5,13.0,35.5,120.0,4.19,7.43,N
+1998,tori noel,Tennessee,SS,72.0,199,,12.0,,,,,N
+1998,heron oneal,Western Michigan,FS,73.9,192,4.62,8.0,39.0,120.0,4.09,7.25,N
+1998,izell reese,Alabama-Birmingham,SS,74.1,193,4.54,13.0,39.5,133.0,4.06,7.09,Y
+1998,damien richardson,Arizona State,SS,73.5,210,4.66,17.0,37.0,124.0,3.98,7.33,Y
+1998,tawambi settles,Duke,FS,74.4,191,4.58,,32.5,113.0,4.04,7.42,N
+1998,shevin smith,Florida State,SS,70.6,196,,13.0,,,,,Y
+1998,ryan sutter,Colorado,SS,73.1,203,4.61,17.0,33.5,120.0,4.13,7.07,Y
+1998,eric warfield,Nebraska,FS,72.4,192,,,40.0,127.0,3.9,7.06,Y
+1998,greg williams,North Carolina,SS,70.6,191,4.78,15.0,35.5,110.0,4.07,7.41,N
+1998,shaun williams,UCLA,FS,73.4,211,4.48,,33.5,122.0,4.25,7.42,Y
+1999,johndale carty,Utah State,FS,73.0,192,4.58,12.0,40.0,126.0,4.15,7.0,Y
+1999,rich coady,Texas A&M,SS,72.6,210,4.56,20.0,36.0,117.0,3.88,7.11,Y
+1999,nikia codie,Baylor,FS,75.0,207,4.57,17.0,34.0,121.0,4.2,7.21,N
+1999,rashard cook,Southern California,FS,71.0,197,4.84,13.0,36.0,121.0,4.3,7.2,Y
+1999,antuan edwards,Clemson,SS,72.3,210,4.46,,38.0,123.0,3.96,6.89,N
+1999,mitchell freedman,Arizona,FS,73.0,217,4.65,7.0,38.5,125.0,,,N
+1999,tony george,Florida,SS,70.4,198,4.65,15.0,36.5,116.0,4.24,7.3,Y
+1999,matt graham,Indiana State,SS,71.0,207,4.44,21.0,35.0,117.0,3.86,6.87,N
+1999,billy gustin,Purdue,FS,73.0,192,4.38,15.0,37.0,121.0,3.99,7.03,N
+1999,cory hall,Frenso State (CA),FS,71.8,202,4.52,17.0,36.0,115.0,4.29,7.18,Y
+1999,armon hatcher,Oregon State,SS,72.4,215,4.62,,36.0,119.0,4.2,7.23,Y
+1999,dexter jackson,Florida State,FS,71.6,196,4.64,10.0,36.0,115.0,4.06,6.96,Y
+1999,paris johnson,Miami (OH),SS,74.0,207,4.71,16.0,35.0,117.0,4.32,7.49,Y
+1999,gana joseph,Oklahoma,FS,72.4,212,4.57,17.0,32.0,107.0,4.32,7.48,N
+1999,sori kanu,Michigan State,FS,71.0,193,4.69,14.0,35.0,115.0,4.21,7.36,N
+1999,mike mckenzie,Memphis,FS,73.0,191,4.58,,34.0,115.0,4.11,7.11,Y
+1999,damon moore,Ohio State,SS,71.1,209,4.6,21.0,35.0,118.0,4.22,7.18,Y
+1999,jason perry,North Carolina State,FS,72.9,200,4.61,17.0,36.5,121.0,4.23,7.31,Y
+1999,pierson prioleau,Virginia Tech,FS,69.9,191,4.57,18.0,42.0,130.0,3.97,7.28,Y
+1999,marcus ray,Michigan,SS,70.5,206,4.61,,35.5,111.0,4.19,7.43,N
+1999,scott shields,Weber State (UT),SS,76.1,228,4.55,23.0,35.0,120.0,4.06,7.03,Y
+1999,marquis smith,California,SS,74.4,218,4.6,,39.5,130.0,4.12,7.31,Y
+1999,myron terry,Colorado State,FS,74.0,203,4.72,21.0,35.0,117.0,4.16,7.2,N
+1999,eric thigpen,Iowa,FS,72.1,198,4.76,14.0,35.0,114.0,4.26,7.37,Y
+1999,ricky thompson,Oklahoma State,FS,71.9,181,4.73,15.0,36.0,118.0,4.32,7.21,N
+1999,brad ware,Auburn,FS,73.9,207,4.53,18.0,37.0,116.0,4.25,7.34,Y
+1999,marcus washington,Colorado,FS,73.8,219,4.65,16.0,37.0,117.0,4.44,7.4,Y
+2000,rashidi barnes,Colorado,FS,71.6,208,4.63,10.0,35.0,114.0,4.32,6.92,Y
+2000,rogers beckett,Marshall (WV),FS,73.5,207,4.64,15.0,39.5,119.0,4.29,6.48,Y
+2000,matt bowen,Iowa,SS,73.1,201,4.51,12.0,33.0,115.0,4.09,7.06,Y
+2000,mike brown,Nebraska,SS,69.9,204,4.6,14.0,36.0,116.0,4.01,6.93,Y
+2000,tyrone carter,Minnesota,SS,67.6,190,4.53,16.0,41.0,121.0,4.19,6.75,Y
+2000,ashley cooper,Mississippi State,SS,70.3,208,4.69,16.0,,117.0,,,N
+2000,todd franz,Tulsa (OK),FS,73.0,199,4.55,14.0,,,,,Y
+2000,arturo freeman,South Carolina,FS,72.4,188,4.58,14.0,35.5,124.0,4.38,6.91,Y
+2000,trent gamble,Wyoming,FS,69.3,186,4.58,21.0,37.0,124.0,3.9,6.6,N
+2000,deon grant,Tennessee,SS,73.8,209,4.5,15.0,,,,,Y
+2000,mike green,Northwestern State (LA),FS,72.1,189,4.56,,38.5,118.0,4.2,,Y
+2000,brandon jennings,Texas A&M,FS,72.4,198,4.54,16.0,38.0,123.0,4.14,6.91,N
+2000,eric johnson,Nebraska,SS,72.0,215,4.63,12.0,38.0,121.0,4.17,6.96,N
+2000,tinker keck,Cincinnati,SS,73.3,200,4.58,15.0,36.5,120.0,4.31,6.96,N
+2000,kenoy kennedy,Arkansas,FS,73.0,221,4.71,8.0,33.5,113.0,4.38,7.08,Y
+2000,sean key,Florida State,FS,70.6,188,4.67,,,,4.2,7.12,N
+2000,aric morris,Michigan State,SS,69.4,211,4.56,24.0,,,,,Y
+2000,bobby myers,Wisconsin,FS,73.3,183,4.59,,37.5,123.0,4.1,7.04,Y
+2000,erik olson,Colorado,SS,73.0,208,4.63,17.0,35.0,115.0,4.21,6.81,Y
+2000,dwyte smiley,Youngstown State (OH),FS,73.0,198,4.61,13.0,35.0,115.0,4.29,7.18,N
+2000,travares tillman,Georgia Tech,FS,73.3,194,4.6,15.0,37.5,123.0,4.29,6.95,Y
+2000,jack williams,Azusa Pacific (CA),SS,70.3,206,4.74,15.0,31.5,108.0,4.65,7.15,N
+2001,adam archuleta,Arizona State,SS,71.9,211,4.46,31.0,,,,,Y
+2001,idrees bashir,Memphis,FS,74.3,206,4.55,22.0,40.0,126.0,4.2,7.14,Y
+2001,cory bird,Virginia Tech,SS,70.3,217,4.6,22.0,,,,,Y
+2001,randy black,Nevada Las Vegas,SS,71.9,205,4.71,,35.5,115.0,4.2,7.14,N
+2001,james boyd,Penn State,SS,71.0,207,4.59,,32.5,117.0,4.24,7.29,Y
+2001,robert carswell,Clemson,FS,71.9,214,4.59,21.0,34.0,106.0,4.18,7.14,Y
+2001,jarrod cooper,Kansas State,SS,72.5,222,4.43,,41.5,130.0,3.9,6.87,Y
+2001,tony dixon,Alabama,SS,73.1,213,4.57,17.0,37.0,117.0,,7.38,Y
+2001,shawn forte,Maryland,FS,72.8,204,4.54,20.0,,,,,N
+2001,curtis fuller,Texas Christian,FS,69.9,186,4.43,18.0,36.0,114.0,4.21,7.2,Y
+2001,derrick gibson,Florida State,SS,73.6,218,4.45,17.0,,,,,Y
+2001,corey hall,Appalachian State (NC),FS,75.5,198,4.52,14.0,36.5,127.0,,,Y
+2001,shaunard harts,Boise State,SS,71.6,200,4.51,12.0,34.5,119.0,,7.14,Y
+2001,john howell,Colorado State,FS,71.6,204,4.6,14.0,37.0,121.0,4.12,6.87,Y
+2001,michael jameson,Texas A&M,FS,71.4,186,4.48,9.0,34.5,118.0,4.2,7.13,Y
+2001,marlon mccree,Kentucky,SS,71.0,197,4.6,10.0,38.0,117.0,4.1,7.36,Y
+2001,carl nesmith,Kansas,FS,74.0,223,4.95,5.0,31.5,112.0,,,N
+2001,richard newsome,Michigan State,FS,70.6,203,4.59,14.0,,,,,N
+2001,ifeanyi ohalete,Southern California,FS,73.6,221,4.64,16.0,,,,,N
+2001,emile white,Houston,SS,72.1,219,4.65,16.0,34.5,111.0,,7.26,N
+2001,adrian wilson,North Carolina State,SS,74.4,213,4.55,21.0,39.5,120.0,,,Y
+2002,marques anderson,UCLA,SS,71.0,213,4.52,16.0,39.5,124.0,,,Y
+2002,terreal bierria,Georgia,FS,74.6,216,4.56,18.0,36.0,129.0,4.1,6.93,Y
+2002,sam brandon,Nevada Las Vegas,FS,74.0,199,4.72,,36.5,124.0,,,Y
+2002,jack brewer,Minnesota,FS,72.0,194,4.57,12.0,37.0,120.0,4.24,6.9,N
+2002,kevin curtis,Texas Tech,FS,73.6,212,4.54,24.0,37.5,123.0,3.88,6.75,Y
+2002,dan dawson,Rice (TX),SS,73.0,219,4.64,24.0,38.0,121.0,4.0,6.75,N
+2002,bobby gray,Louisiana Tech,SS,72.1,209,4.66,24.0,,111.0,,,Y
+2002,quentin harris,Syracuse,FS,73.0,216,4.61,14.0,36.5,120.0,4.34,7.59,N
+2002,jason hebert,Rice (TX),FS,71.4,190,4.63,15.0,35.5,115.0,3.86,7.12,N
+2002,chris hope,Florida State,FS,71.6,210,4.56,28.0,,112.0,,,Y
+2002,abdual howard,Florida State,SS,72.0,209,4.63,,,117.0,,,N
+2002,ron isreal,Notre Dame,SS,73.0,213,4.6,20.0,,121.0,,,N
+2002,bobby jackson,Illinois,SS,72.4,216,4.74,,34.5,120.0,4.16,7.01,N
+2002,stephon kelly,Winston-Salem State (NC),SS,74.6,212,4.67,15.0,32.5,117.0,4.1,7.26,N
+2002,michael lewis,Colorado,SS,73.1,211,4.56,16.0,36.5,121.0,4.14,6.96,Y
+2002,wesly mallard,Oregon,SS,73.6,221,4.52,22.0,41.0,118.0,4.07,6.81,N
+2002,marquand manuel,Florida,SS,72.0,209,4.52,18.0,,,,,Y
+2002,jon mcgraw,Kansas State,SS,75.1,208,4.48,13.0,39.5,123.0,3.92,6.51,Y
+2002,mel mitchell,Western Kentucky,FS,73.1,220,4.59,15.0,35.0,126.0,4.15,7.0,Y
+2002,willie offord,South Carolina,SS,73.6,215,4.61,22.0,35.0,116.0,,,Y
+2002,jermaine phillips,Georgia,FS,73.1,214,4.65,18.0,31.5,113.0,,,Y
+2002,rick sherrod,West Virginia,FS,73.8,192,4.58,,37.0,115.0,4.11,7.09,N
+2002,steve smith,Oregon,SS,72.6,193,4.6,,30.5,107.0,4.22,7.0,Y
+2002,lamont thompson,Washington State,FS,73.1,220,4.56,12.0,33.5,116.0,,,Y
+2002,chad williams,Southern Mississippi,SS,69.5,207,4.5,20.0,36.5,120.0,,6.96,Y
+2002,roy williams,Oklahoma,SS,72.4,219,4.53,13.0,30.5,111.0,,,Y
+2002,tank williams,Stanford,FS,74.4,222,4.41,19.0,38.5,119.0,3.93,6.78,Y
+2002,coy wire,Stanford,SS,71.8,209,4.56,28.0,38.5,118.0,3.87,6.62,Y
+2002,chris young,Georgia Tech,SS,71.9,210,4.6,23.0,36.5,120.0,,,Y
+2003,colin branch,Stanford,FS,71.8,203,4.43,22.0,36.0,119.0,,,Y
+2003,chris brown,Hawaii,FS,73.0,195,4.59,15.0,35.5,126.0,4.13,7.05,Y
+2003,curry burns,Louisville,SS,72.4,216,4.55,19.0,36.0,120.0,4.1,7.03,Y
+2003,charles drake,Michigan,FS,73.0,205,4.52,20.0,,,,,Y
+2003,anthony floyd,Louisville,FS,69.5,202,4.6,19.0,33.5,117.0,4.18,7.09,N
+2003,ken hamlin,Arkansas,FS,74.5,209,4.6,16.0,33.0,117.0,3.92,6.78,Y
+2003,terrence holt,North Carolina State,FS,73.8,208,4.63,13.0,34.5,122.0,3.97,6.99,Y
+2003,todd johnson,Florida,FS,72.9,206,4.58,19.0,33.5,117.0,4.17,6.99,Y
+2003,cato june,Michigan,SS,72.1,218,4.66,,35.0,113.0,,,Y
+2003,terrence kiel,Texas A&M,SS,71.1,204,4.49,16.0,38.0,127.0,3.92,6.87,N
+2003,norman lejeune,Louisiana State,SS,72.4,200,4.65,11.0,33.5,115.0,4.21,7.41,Y
+2003,rashean mathis,Bethune-Cookman (FL),FS,72.8,202,4.47,22.0,38.5,123.0,4.15,7.08,Y
+2003,hanik milligan,Houston,FS,74.4,201,4.5,9.0,36.5,130.0,4.18,7.09,Y
+2003,donnie nickey,Ohio State,FS,74.3,220,4.64,17.0,33.5,119.0,4.15,7.08,Y
+2003,derek pagel,Iowa,FS,73.0,208,4.53,25.0,35.5,115.0,4.03,6.85,Y
+2003,willie pile,Virginia Tech,FS,74.0,206,4.58,14.0,38.0,125.0,4.04,6.75,Y
+2003,antwoine sanders,Utah,FS,73.6,202,4.56,14.0,37.5,128.0,4.37,7.43,Y
+2003,gerome sapp,Notre Dame,SS,72.1,216,4.69,,36.5,112.0,4.27,7.13,Y
+2003,bryan scott,Penn State,SS,73.0,219,4.6,13.0,,,,,Y
+2003,thomas wright,Michigan State,SS,73.4,201,4.79,13.0,36.0,114.0,4.38,7.41,N
+2004,rashad baker,Tennessee,FS,70.5,204,4.55,21.0,36.0,117.0,4.12,7.19,N
+2004,tony bua,Arkansas,SS,71.3,209,4.65,15.0,36.0,120.0,4.08,6.75,Y
+2004,erik coleman,Washington State,FS,70.5,200,4.62,16.0,35.5,117.0,4.14,7.03,Y
+2004,kentrell curry,Georgia,FS,73.0,201,4.63,17.0,34.5,127.0,,,N
+2004,daryl dixon,Florida,FS,69.6,195,4.75,15.0,35.5,118.0,,,N
+2004,glenn earl,Notre Dame,SS,73.1,222,4.65,20.0,,,,,Y
+2004,deandre eiland,South Carolina,FS,71.5,202,4.54,17.0,35.0,113.0,4.27,7.19,Y
+2004,keith lewis,Oregon,FS,72.5,204,4.58,11.0,37.0,121.0,4.07,7.28,Y
+2004,arnold parker,Utah,SS,73.9,213,4.52,18.0,35.5,120.0,4.12,6.98,N
+2004,etric pruitt,Southern Mississippi,FS,72.1,197,4.59,,39.5,116.0,4.0,7.15,Y
+2004,bob sanders,Iowa,SS,68.4,204,4.4,15.0,41.5,128.0,3.91,6.7,Y
+2004,stuart schweigert,Purdue,FS,74.0,218,4.45,18.0,38.0,124.0,3.89,6.68,Y
+2004,guss scott,Florida,SS,70.4,204,4.49,20.0,39.0,124.0,,,Y
+2004,jason shivers,Arizona State,FS,72.5,201,4.53,19.0,36.0,128.0,,,Y
+2004,matt ware,UCLA,FS,74.4,209,4.54,15.0,,,,,Y
+2004,rashad washington,Kansas State,FS,74.1,223,4.61,14.0,34.0,116.0,4.02,7.06,Y
+2004,madieu williams,Maryland,FS,72.4,193,4.5,18.0,,125.0,,,Y
+2004,quintin williams,Wake Forest,FS,71.5,207,4.61,21.0,37.0,122.0,4.09,7.28,N
+2004,virgil williams,Washington State,SS,72.9,196,4.66,11.0,,,,,N
+2004,gibril wilson,Tennessee,SS,72.1,197,4.47,15.0,,120.0,,,Y
+2004,marcus winn,Alabama State,SS,72.3,223,4.86,21.0,,,,,N
+2005,hamza abdullah,Washington State,SS,74.0,214,4.65,18.0,39.0,114.0,,6.94,Y
+2005,oj atogwe,Stanford,FS,71.0,219,4.57,22.0,,,,,N
+2005,justin beriault,Ball State (IN),FS,74.8,204,4.57,14.0,39.5,124.0,3.8,6.92,Y
+2005,atari bigby,Central Florida,SS,70.8,214,4.65,19.0,35.0,106.0,4.1,7.0,N
+2005,patrick body,Toledo,FS,74.0,196,4.36,,,,,,N
+2005,jamaal brimmer,Nevada Las Vegas,SS,73.4,216,4.87,16.0,32.0,108.0,4.63,7.78,N
+2005,josh bullocks,Nebraska,FS,72.0,209,4.49,,37.5,116.0,4.08,7.09,Y
+2005,james butler,Georgia Tech,FS,73.9,213,4.58,16.0,40.5,127.0,3.98,7.1,N
+2005,jerome carter,Florida State,SS,71.4,220,4.49,21.0,35.0,116.0,4.04,7.18,Y
+2005,sean considine,Iowa,FS,72.1,212,4.53,19.0,37.0,116.0,3.92,7.09,Y
+2005,atcheson conway,Bowie State (MD),SS,70.4,219,4.95,14.0,32.0,108.0,4.1,7.38,N
+2005,thomas davis,Georgia,FS,73.0,230,4.64,,36.5,115.0,3.97,7.09,Y
+2005,ben emanuel,UCLA,FS,75.0,212,4.57,21.0,,,,,Y
+2005,diamond ferri,Syracuse,SS,70.1,223,4.64,20.0,35.5,111.0,4.14,7.15,N
+2005,dustin fox,Ohio State,FS,71.0,191,4.43,7.0,43.5,,,,Y
+2005,aaron francisco,Brigham Young,FS,73.9,211,4.76,17.0,35.0,110.0,4.07,6.96,N
+2005,matt grootegoed,Southern California,SS,70.8,218,4.68,22.0,31.5,107.0,4.26,7.17,N
+2005,jason harmon,Michigan State,FS,71.5,209,4.74,23.0,37.0,117.0,4.1,7.61,N
+2005,terry holley,Rice (TX),SS,73.3,211,4.68,24.0,37.0,115.0,,,N
+2005,jim leonhard,Wisconsin,FS,68.4,191,4.63,19.0,,,,,N
+2005,andre maddox,North Carolina State,SS,72.6,205,4.51,17.0,36.5,127.0,,7.33,Y
+2005,donte nicholson,Oklahoma,SS,73.5,212,4.55,18.0,,,,,Y
+2005,kerry rhodes,Louisville,FS,74.5,209,4.59,12.0,42.0,123.0,4.12,6.94,Y
+2005,gerald sensabaugh,North Carolina,FS,72.5,214,4.48,17.0,46.0,113.0,,,Y
+2005,marviel underwood,San Diego State,FS,70.3,205,4.52,19.0,38.0,116.0,4.21,7.12,Y
+2005,marquis weeks,Virginia,SS,70.5,216,4.62,23.0,36.5,119.0,3.89,7.46,N
+2006,jahmile addae,West Virginia,FS,70.25,214,4.74,,38.5,122.0,,,N
+2006,jason allen,Tennessee,FS,72.88,209,4.41,17.0,39.5,131.0,3.81,6.75,Y
+2006,willie andrews,Baylor,SS,69.38,193,4.45,7.0,36.5,124.0,4.27,6.99,Y
+2006,antoine bethea,Howard (DC),FS,71.0,203,4.42,19.0,36.5,127.0,4.11,6.99,Y
+2006,darnell bing,Southern California,SS,74.0,227,4.52,17.0,34.0,120.0,4.07,7.25,Y
+2006,greg blue,Georgia,FS,74.25,216,4.65,16.0,37.5,120.0,,,Y
+2006,darrell brooks,Arizona,FS,72.38,198,4.71,7.0,36.5,125.0,4.36,6.97,N
+2006,daniel bullocks,Nebraska,SS,72.5,212,4.4,18.0,38.0,124.0,4.16,6.91,Y
+2006,marcus demps,San Diego State,FS,71.75,198,4.79,17.0,31.0,117.0,4.09,6.91,N
+2006,reed doughty,Northern Colorado,FS,72.5,209,4.68,15.0,37.0,121.0,4.17,6.66,Y
+2006,cedric griffin,Texas,FS,72.13,199,4.54,17.0,35.5,125.0,4.1,6.84,Y
+2006,chris harrell,Penn State,SS,72.38,209,4.74,15.0,40.5,119.0,4.12,7.02,N
+2006,jarvis herring,Florida,SS,71.13,207,4.92,15.0,36.5,116.0,4.23,7.34,N
+2006,michael huff,Texas,SS,72.0,204,4.37,21.0,40.5,125.0,,,Y
+2006,dawan landry,Georgia Tech,SS,72.88,220,4.69,18.0,37.5,124.0,4.27,,Y
+2006,calvin lowry,Penn State,SS,71.0,200,4.58,15.0,36.0,120.0,4.2,7.16,Y
+2006,vincent meeks,Texas Tech,SS,70.63,210,4.91,11.0,33.0,112.0,,,N
+2006,jarrad page,UCLA,SS,72.38,239,4.64,,38.0,127.0,4.14,6.68,Y
+2006,charlie peprah,Alabama,SS,70.88,206,4.7,15.0,37.5,119.0,4.09,6.81,Y
+2006,bernard pollard,Purdue,SS,73.63,224,4.6,,36.5,131.0,,,Y
+2006,nate salley,Ohio State,FS,73.75,216,4.64,14.0,40.0,123.0,4.15,6.79,Y
+2006,ko simpson,South Carolina,FS,73.0,209,4.45,11.0,40.5,122.0,4.17,7.09,Y
+2006,dwayne slay,Texas Tech,FS,75.5,216,4.83,,32.5,112.0,,,N
+2006,anthony smith,Syracuse,FS,72.13,194,4.71,18.0,41.0,125.0,4.35,6.75,Y
+2006,eric smith,Michigan State,SS,73.0,209,4.63,21.0,40.0,127.0,4.1,6.89,Y
+2006,scott ware,Southern California,SS,73.13,218,4.72,15.0,37.0,115.0,4.25,7.05,N
+2006,pat watkins,Florida State,FS,76.8,211,4.48,14.0,41.0,133.0,,,Y
+2006,donte whitner,Ohio State,SS,70.1,204,4.44,18.0,40.0,132.0,,,Y
+2007,gerald alexander,Boise State,FS,72.38,210,4.53,15.0,41.0,124.0,4.21,7.24,Y
+2007,craig dahl,North Dakota State,SS,73.63,216,4.58,17.0,35.0,122.0,4.26,6.69,N
+2007,jessie daniels,Louisiana State,SS,70.88,216,4.54,25.0,,,,,N
+2007,eric frampton,Washington State,SS,71.0,204,4.65,10.0,34.5,122.0,4.17,6.84,Y
+2007,cj gaddis,Clemson,FS,71.5,203,4.48,20.0,36.5,121.0,4.3,7.28,Y
+2007,josh gattis,Wake Forest,FS,73.0,206,4.55,22.0,34.5,121.0,4.27,6.72,Y
+2007,dashon goldson,Washington,FS,74.0,205,4.64,12.0,34.5,115.0,4.46,7.37,Y
+2007,michael griffin,Texas,SS,71.75,202,4.48,16.0,36.0,120.0,4.1,6.6,Y
+2007,tanard jackson,Syracuse,FS,72.0,200,4.53,12.0,32.5,121.0,4.28,6.89,Y
+2007,michael johnson,Arizona,SS,74.63,205,4.66,15.0,33.0,114.0,4.32,7.04,Y
+2007,laron landry,Louisiana State,FS,72.5,213,4.38,,37.5,123.0,,,Y
+2007,brandon meriweather,Miami (FL),FS,70.63,195,4.5,11.0,35.0,111.0,4.33,7.06,Y
+2007,chinedum ndukwe,Notre Dame,FS,73.75,206,4.5,15.0,37.5,,,,N
+2007,jd nelson,Oregon,FS,71.38,207,4.86,,32.5,111.0,4.53,7.29,N
+2007,reggie nelson,Florida,FS,71.38,198,4.51,,34.5,,,,Y
+2007,chad nkang,Missouri,SS,71.5,220,4.52,23.0,36.5,118.0,4.34,7.1,Y
+2007,marcus paschal,Iowa,FS,72.25,201,4.67,15.0,33.0,,4.72,7.31,N
+2007,kevin payne,Louisiana-Monroe,FS,72.25,220,4.63,20.0,35.0,106.0,4.3,7.0,Y
+2007,leonard peters,Hawaii,FS,73.13,210,4.81,21.0,32.5,110.0,,7.49,N
+2007,sabby piscitelli,Oregon State,SS,74.75,224,4.5,19.0,34.5,122.0,3.9,6.84,Y
+2007,aaron rouse,Virginia Tech,SS,76.0,223,4.6,16.0,35.0,,,,Y
+2007,brandon sharp,Louisville,FS,70.0,194,4.62,18.0,37.5,,,,N
+2007,daren stone,Maine,SS,75.25,218,4.6,13.0,39.0,132.0,4.44,7.13,Y
+2007,eric weddle,Utah,SS,71.3,203,4.5,11.0,33.5,113.0,4.12,6.78,Y
+2007,john wendling,Wyoming,FS,73.25,222,4.5,22.0,38.5,129.0,4.16,6.96,Y
+2007,marvin white,Texas Christian,FS,73.3,199,4.56,17.0,33.5,,,,Y
+2008,husain abdullah,Washington State,FS,71.88,204,4.69,16.0,32.5,115.0,,7.07,N
+2008,jamar adams,Michigan,SS,74.0,212,4.63,,34.0,121.0,4.49,6.9,N
+2008,dominique barber,Minnesota,FS,72.25,210,4.7,23.0,34.0,117.0,4.34,7.08,Y
+2008,josh barrett,Arizona State,SS,73.75,223,4.36,17.0,31.5,121.0,4.27,7.07,N
+2008,brian bonner,Texas Christian,SS,70.88,196,4.69,17.0,31.0,113.0,4.43,7.21,N
+2008,caleb campbell,Army,SS,73.75,229,4.63,24.0,,,,,Y
+2008,simeon castille,Alabama,FS,72.38,195,4.73,,31.5,119.0,4.36,7.07,N
+2008,thomas decoud,California,FS,73.38,207,4.56,,35.5,122.0,4.27,6.85,Y
+2008,quintin demps,Texas-El Paso,FS,71.88,206,4.41,16.0,31.5,110.0,,,Y
+2008,marcus griffin,Texas,FS,70.25,201,4.81,13.0,31.5,119.0,4.32,7.09,N
+2008,jonathan hefney,Tennessee,FS,67.88,190,4.55,14.0,29.0,117.0,4.44,7.1,N
+2008,chris horton,UCLA,SS,72.13,212,4.6,14.0,28.5,109.0,4.35,7.34,N
+2008,tyrell johnson,Arkansas State,SS,71.88,207,4.41,27.0,32.0,127.0,,,Y
+2008,dennis keyes,UCLA,FS,72.63,205,4.69,15.0,30.5,112.0,4.41,7.25,N
+2008,dajuan morgan,North Carolina State,FS,72.13,205,4.54,21.0,33.0,119.0,4.41,7.12,Y
+2008,dj parker,Virginia Tech,FS,71.25,192,4.63,19.0,29.0,111.0,4.44,6.94,N
+2008,kenny phillips,Miami (FL),FS,74.25,212,4.52,19.0,32.5,121.0,4.27,6.97,Y
+2008,david roach,Texas Christian,FS,72.38,210,4.56,16.0,38.0,123.0,4.15,6.88,N
+2008,jamie silva,Boston College,SS,70.75,204,4.87,,31.5,112.0,,,N
+2008,nehemiah warrick,Michigan State,FS,72.9,211,4.58,16.0,29.5,119.0,4.09,6.98,N
+2008,dj wolfe,Oklahoma,SS,71.13,207,4.66,,28.0,112.0,4.32,7.02,N
+2008,tom zbikowski,Notre Dame,SS,71.3,211,4.54,24.0,,,,,Y
+2009,david bruton,Notre Dame,FS,74.0,219,4.4,19.0,41.5,132.0,4.28,6.6,Y
+2009,patrick chung,Oregon,SS,71.25,212,4.49,25.0,34.0,119.0,,,Y
+2009,chris clemons,Clemson,FS,72.13,208,4.33,19.0,37.5,127.0,4.38,7.27,Y
+2009,emanuel cook,South Carolina,SS,69.75,197,4.57,18.0,35.0,116.0,,,N
+2009,louis delmas,Western Michigan,FS,71.38,202,4.52,12.0,37.0,126.0,4.17,6.67,Y
+2009,courtney greene,Rutgers,SS,72.25,212,4.55,21.0,34.5,116.0,4.16,7.35,Y
+2009,michael hamlin,Clemson,SS,74.0,214,4.57,17.0,37.5,117.0,4.42,7.14,Y
+2009,lendy holmes,Oklahoma,FS,72.0,206,4.69,16.0,32.0,112.0,4.32,7.28,N
+2009,rashad johnson,Alabama,FS,71.25,203,4.49,15.0,37.0,120.0,4.23,7.09,Y
+2009,darcel mcbath,Texas Tech,FS,72.25,198,4.58,14.0,38.0,119.0,4.16,6.8,Y
+2009,marcus mcclinton,Kentucky,FS,72.25,210,4.51,16.0,37.0,120.0,4.22,7.45,N
+2009,william moore,Missouri,SS,72.13,221,4.56,16.0,37.0,123.0,4.26,6.81,Y
+2009,troy nolan,Arizona State,FS,72.5,206,4.63,12.0,31.5,117.0,4.3,7.06,Y
+2009,derek pegues,Mississippi State,FS,69.63,199,4.63,23.0,36.0,119.0,4.3,7.08,N
+2009,glover quin,New Mexico,FS,70.75,204,4.5,22.0,38.0,119.0,4.43,7.39,Y
+2009,jamarca sanford,Mississippi,SS,69.88,214,4.5,29.0,33.5,116.0,4.2,7.02,Y
+2009,cj spillman,Marshall (WV),FS,72.0,197,4.45,,41.5,122.0,4.33,7.05,N
+2009,curtis taylor,Louisiana State,FS,74.0,207,4.64,13.0,37.5,129.0,4.23,7.25,Y
+2009,brandon underwood,Cincinnati,FS,73.0,198,4.5,16.0,36.5,125.0,4.2,7.0,Y
+2009,chip vaughn,Wake Forest,SS,73.38,221,4.42,21.0,37.0,125.0,4.12,7.03,Y
+2010,nate allen,South Florida,FS,72.5,207,4.5,16.0,,,,,Y
+2010,jon amaya,Nevada,FS,72.75,203,4.51,8.0,28.0,118.0,,,N
+2010,lucien antoine,Oklahoma State,SS,72.5,215,4.62,28.0,32.0,120.0,4.47,7.38,N
+2010,larry asante,Nebraska,SS,72.0,212,4.62,14.0,37.5,118.0,4.17,7.0,Y
+2010,eric berry,Tennessee,FS,71.63,211,4.4,19.0,43.0,130.0,4.23,6.8,Y
+2010,morgan burnett,Georgia Tech,FS,73.38,209,4.51,16.0,,,,,Y
+2010,kam chancellor,Virginia Tech,FS,75.25,231,4.62,22.0,32.0,116.0,4.41,7.36,Y
+2010,barry church,Toledo,SS,73.5,222,4.69,19.0,36.0,121.0,4.17,6.65,N
+2010,harry coleman,Louisiana State,SS,73.5,211,4.56,13.0,33.0,115.0,4.42,7.24,N
+2010,kurt coleman,Ohio State,SS,70.25,192,4.55,19.0,,,,,Y
+2010,cody grimm,Virginia Tech,SS,70.88,203,4.55,11.0,35.5,117.0,,6.58,N
+2010,chad jones,Louisiana State,SS,74.13,221,4.59,9.0,36.0,115.0,4.14,6.83,Y
+2010,reshad jones,Georgia,SS,73.25,214,4.51,24.0,39.5,118.0,4.54,7.43,Y
+2010,kendrick lewis,Mississippi,FS,71.63,198,4.73,16.0,31.5,116.0,4.33,6.88,Y
+2010,myron lewis,Vanderbilt,FS,73.63,203,4.42,10.0,37.0,126.0,,,Y
+2010,taylor mays,Southern California,FS,75.13,230,4.31,24.0,41.0,125.0,,,Y
+2010,kyle mccarthy,Notre Dame,SS,72.0,205,4.58,24.0,34.0,117.0,4.13,6.74,N
+2010,nick polk,Indiana,FS,71.0,211,4.55,14.0,38.0,121.0,,,N
+2010,dennis rogan,Tennessee,FS,68.88,185,4.73,,38.0,118.0,4.1,,N
+2010,myron rolle,Florida State,SS,73.88,215,4.59,21.0,36.0,124.0,4.15,6.94,Y
+2010,darian stewart,South Carolina,SS,71.0,213,4.53,12.0,37.0,122.0,4.32,,N
+2010,darrell stuckey,Kansas,SS,71.5,205,4.46,17.0,39.5,120.0,,,Y
+2010,tj ward,Oregon,SS,70.5,211,4.56,19.0,34.0,121.0,,,Y
+2010,donovan warren,Michigan,FS,71.5,193,4.62,12.0,,113.0,,,N
+2010,justin woodall,Alabama,SS,73.0,223,4.64,13.0,34.0,118.0,4.17,6.88,N
+2010,major wright,Florida,FS,73.0,206,4.44,14.0,37.5,119.0,4.36,6.95,Y
+2011,ahmad black,Florida,SS,69.5,184,4.7,18.0,35.5,119.0,4.2,6.85,Y
+2011,quinton carter,Oklahoma,FS,72.63,208,4.57,23.0,34.5,121.0,4.06,7.05,Y
+2011,chris conte,California,FS,74.38,197,4.52,18.0,35.5,127.0,4.19,7.01,Y
+2011,chris culliver,South Carolina,FS,72.38,199,4.36,,38.5,123.0,4.08,6.88,Y
+2011,dejon gomes,Nebraska,SS,71.5,208,4.5,13.0,31.0,110.0,,,Y
+2011,eric hagg,Nebraska,FS,73.38,209,4.62,18.0,34.5,121.0,4.19,6.73,Y
+2011,will hill,Florida,FS,72.75,202,4.64,,31.0,123.0,4.19,,N
+2011,jermale hines,Ohio State,FS,73.13,219,4.61,19.0,31.0,,4.21,6.9,Y
+2011,jaiquawn jarrett,Temple,FS,71.88,198,4.62,14.0,30.0,113.0,4.14,6.95,Y
+2011,jeron johnson,Boise State,SS,70.25,212,4.51,23.0,,,,,N
+2011,shiloh keo,Idaho,SS,71.25,219,4.74,24.0,32.5,110.0,3.9,6.55,Y
+2011,joe lefeged,Rutgers,SS,71.63,210,4.42,18.0,36.5,122.0,4.13,6.82,N
+2011,mark legree,Appalachian State (NC),FS,71.5,210,4.49,21.0,31.0,116.0,4.09,6.9,Y
+2011,deandre mcdaniel,Clemson,SS,72.13,217,4.63,,35.0,116.0,,,N
+2011,rahim moore,UCLA,FS,71.75,202,4.58,11.0,35.0,115.0,3.96,6.98,Y
+2011,robert sands,West Virginia,FS,76.38,217,4.53,12.0,35.0,124.0,4.06,7.03,Y
+2011,tyler sash,Iowa,SS,72.0,211,4.62,11.0,33.0,108.0,4.27,6.9,Y
+2011,danorris searcy,North Carolina,SS,70.63,223,4.55,27.0,33.0,120.0,4.09,6.87,Y
+2011,david sims,Iowa State,SS,69.25,200,4.5,24.0,37.5,120.0,4.28,,N
+2011,jerrard tarrant,Georgia Tech,FS,72.38,204,4.57,14.0,33.0,116.0,4.21,6.92,N
+2011,nate williams,Washington,SS,73.0,211,4.68,17.0,30.5,114.0,4.15,6.98,N
+2012,antonio allen,South Carolina,SS,73.5,210,4.58,17.0,34.0,118.0,4.25,7.02,Y
+2012,mark barron,Alabama,SS,73.0,213,4.56,,,,,,Y
+2012,justin bethel,Presbyterian (SC),FS,71.63,200,4.52,19.0,39.5,131.0,4.3,6.79,Y
+2012,sean cattouse,California,SS,74.13,211,4.74,,34.0,114.0,4.15,6.99,N
+2012,winston guy,Kentucky,SS,72.88,218,4.62,,,,,,Y
+2012,delano howell,Stanford,SS,70.88,210,4.61,21.0,33.0,120.0,4.15,6.97,N
+2012,duke ihenacho,San Jose State,SS,72.13,213,4.67,20.0,35.0,122.0,4.22,6.78,N
+2012,george iloka,Boise State,FS,75.63,225,4.6,20.0,34.5,124.0,4.03,7.03,Y
+2012,janzen jackson,McNeese State (LA),FS,71.5,188,4.6,9.0,36.5,125.0,4.15,6.9,N
+2012,markelle martin,Oklahoma State,FS,72.75,207,4.47,19.0,,,,,Y
+2012,kelcie mccray,Arkansas State,SS,73.75,202,4.48,12.0,30.5,122.0,4.29,7.0,N
+2012,jerron mcmillian,Maine,SS,71.13,203,4.47,17.0,36.5,120.0,4.22,6.69,N
+2012,charles mitchell,Mississippi State,SS,70.75,202,4.56,19.0,37.0,127.0,4.22,6.93,Y
+2012,eddie pleasant,Oregon,SS,70.13,211,4.53,22.0,33.5,116.0,4.28,7.12,N
+2012,cyhl quarles,Wake Forest,SS,73.5,213,4.54,19.0,32.5,119.0,4.32,7.21,N
+2012,sean richardson,Vanderbilt,SS,74.5,216,4.43,22.0,38.5,128.0,4.44,7.01,N
+2012,trenton robinson,Michigan State,FS,69.75,195,4.46,15.0,35.0,125.0,4.15,,N
+2012,harrison smith,Notre Dame,SS,73.88,213,4.54,19.0,34.0,122.0,4.12,6.63,Y
+2012,brandon taylor,Louisiana State,SS,71.25,209,4.52,,33.5,118.0,4.37,7.32,Y
+2012,johnny thomas,Oklahoma State,SS,70.38,206,4.57,20.0,35.5,123.0,4.25,7.01,N
+2012,phillip thomas,Syracuse,FS,70.63,198,4.68,14.0,33.0,122.0,,,N
+2012,christian thompson,South Carolina State,FS,73.0,211,4.42,18.0,31.5,122.0,4.13,7.33,Y
+2012,corey white,Samford (AL),SS,73.0,206,4.53,15.0,37.5,126.0,4.22,6.72,Y
+2013,john boyett,Oregon,FS,69.88,204,4.64,27.0,,,,,Y
+2013,johnathan cyprien,Florida International,SS,72.25,217,4.56,,38.5,,,,N
+2013,matt elam,Florida,FS,69.88,208,4.5,17.0,35.5,118.0,,,Y
+2013,josh evans,Florida,FS,73.13,207,4.58,,34.5,123.0,4.1,6.64,Y
+2013,tony jefferson,Oklahoma,FS,70.75,213,4.75,16.0,,,,,N
+2013,keelan johnson,Arizona State,SS,71.63,209,4.54,12.0,36.5,125.0,4.07,6.77,N
+2013,robert lester,Alabama,SS,73.25,220,4.66,,33.5,117.0,,,N
+2013,tj mcdonald,Southern California,FS,74.5,219,4.59,19.0,40.0,131.0,4.2,6.89,Y
+2013,bradley mcdougald,Kansas,FS,72.25,215,4.74,19.0,34.5,122.0,4.44,7.07,N
+2013,rontez miles,California (PA),FS,71.63,203,4.62,,36.5,123.0,4.27,6.97,N
+2013,zeke motta,Notre Dame,FS,74.25,213,4.83,11.0,35.5,126.0,4.16,6.75,Y
+2013,bacarri rambo,Georgia,FS,72.5,211,4.56,17.0,,,,,Y
+2013,eric reid,Louisiana State,FS,73.25,213,4.53,17.0,40.5,134.0,4.22,6.99,Y
+2013,daimion stafford,Nebraska,FS,71.63,221,4.69,21.0,30.5,111.0,,7.06,Y
+2013,jawanza starling,Southern California,SS,72.75,202,4.64,17.0,36.0,122.0,4.34,6.68,N
+2013,dj swearinger,South Carolina,FS,70.5,208,4.67,17.0,37.0,124.0,4.11,6.7,Y
+2013,phillip thomas,Frenso State (CA),FS,72.5,208,4.65,14.0,35.0,122.0,,,Y
+2013,shamarko thomas,Syracuse,SS,68.88,213,4.42,28.0,40.5,133.0,4.26,,Y
+2013,kenny vaccaro,Texas,FS,73.0,214,4.63,15.0,38.0,121.0,4.06,6.78,Y
+2013,jj wilcox,Georgia Southern,SS,72.0,213,4.57,17.0,35.0,124.0,4.09,7.02,Y
+2013,shawn williams,Georgia,SS,71.88,213,4.46,25.0,36.0,120.0,4.25,7.01,Y
+2013,earl wolff,North Carolina State,SS,71.0,209,4.44,,39.0,134.0,4.07,,Y
+2014,maurice alexander,Utah State,SS,73.25,220,4.54,,38.0,123.0,4.51,7.05,N
+2014,dion bailey,Southern California,FS,71.75,201,4.66,,34.0,112.0,4.15,6.97,N
+2014,nat berhe,San Diego State,SS,70.5,193,4.71,15.0,35.5,116.0,4.22,7.08,Y
+2014,tre boston,North Carolina,FS,71.63,204,4.59,18.0,35.0,115.0,4.31,7.04,Y
+2014,terrence brooks,Florida State,FS,70.88,198,4.42,10.0,38.0,118.0,,7.35,Y
+2014,deone bucannon,Washington State,SS,73.0,211,4.49,19.0,36.5,124.0,4.26,6.96,Y
+2014,hasean clintondix,Alabama,FS,73.38,208,4.58,11.0,33.0,117.0,4.16,7.16,N
+2014,ahmad dixon,Baylor,SS,72.0,212,4.64,14.0,32.0,111.0,4.5,7.55,Y
+2014,jonathan dowling,Western Kentucky,FS,74.75,190,4.52,8.0,33.5,116.0,4.24,7.04,Y
+2014,marqueston huff,Wyoming,FS,71.13,196,4.49,15.0,35.5,116.0,4.19,7.26,Y
+2014,dontae johnson,North Carolina State,FS,74.13,200,4.45,12.0,38.5,123.0,4.24,6.82,Y
+2014,kenny ladler,Vanderbilt,FS,72.13,207,4.7,24.0,36.5,126.0,,,N
+2014,isaiah lewis,Michigan State,SS,69.88,211,4.6,15.0,36.5,122.0,4.47,7.05,N
+2014,craig loston,Louisiana State,SS,72.63,217,4.65,12.0,32.5,117.0,4.35,7.15,N
+2014,calvin pryor,Louisville,FS,71.13,207,4.58,18.0,34.5,115.0,,,Y
+2014,ed reynolds,Stanford,FS,73.0,207,4.57,15.0,32.5,116.0,,,Y
+2014,daniel sorensen,Brigham Young,SS,73.38,205,4.67,13.0,32.0,113.0,3.95,6.47,N
+2014,vinnie sunseri,Alabama,SS,71.13,210,,18.0,,,,,Y
+2014,jemea thomas,Georgia Tech,FS,69.25,192,4.55,19.0,37.0,124.0,,,Y
+2014,brock vereen,Minnesota,SS,71.63,199,4.47,25.0,34.0,116.0,4.07,6.9,Y
+2014,jimmie ward,Northern Illinois,SS,71.0,193,4.59,9.0,,,,,Y
+2015,adrian amos,Penn State,FS,72.5,218,4.56,,35.5,122.0,4.03,7.09,Y
+2015,detrick bonner,Virginia Tech,FS,71.75,207,4.56,15.0,,,,,N
+2015,ibraheim campbell,Northwestern,SS,71.38,208,4.59,23.0,,,,,Y
+2015,landon collins,Alabama,SS,72.0,228,4.53,,35.0,120.0,4.33,7.38,Y
+2015,kurtis drummond,Michigan State,FS,72.63,208,4.65,,39.5,119.0,4.33,7.09,N
+2015,clayton geathers,Central Florida,SS,73.63,218,4.55,22.0,37.0,120.0,4.27,7.21,Y
+2015,chris hackett,Texas Christian,FS,72.25,195,4.81,,32.0,110.0,4.2,7.12,N
+2015,anthony harris,Virginia,SS,72.63,183,4.57,,,,,,N
+2015,gerod holliman,Louisville,FS,71.75,218,4.54,17.0,,,,,Y
+2015,kyshoen jarrett,Virginia Tech,SS,69.88,200,4.57,21.0,33.0,109.0,4.4,6.95,Y
+2015,dean marlowe,James Madison (VA),FS,73.5,203,4.58,16.0,33.5,114.0,4.18,7.0,N
+2015,tevin mcdonald,Eastern Washington,FS,71.38,195,4.63,19.0,33.0,112.0,4.26,7.01,N
+2015,cody prewitt,Mississippi,FS,74.0,208,4.6,11.0,35.0,125.0,4.23,7.12,N
+2015,damarious randall,Arizona State,FS,70.88,196,4.46,14.0,38.0,120.0,4.07,6.83,Y
+2015,jordan richards,Stanford,SS,70.75,211,4.65,13.0,32.0,111.0,4.22,6.74,Y
+2015,james sample,Louisville,SS,74.13,209,4.56,,32.5,123.0,,7.04,Y
+2015,derron smith,Frenso State (CA),FS,70.0,200,4.52,,,,,,Y
+2015,jaquiski tartt,Samford (AL),SS,73.0,221,4.53,,,124.0,,,Y
+2015,jermaine whitehead,Auburn,FS,71.0,197,4.59,15.0,37.0,128.0,4.11,6.95,N
+2016,vonn bell,Ohio State,SS,70.75,199,,16.0,,,,,Y
+2016,lamarcus brutus,Florida State,FS,71.63,206,4.76,14.0,33.0,114.0,4.33,7.08,N
+2016,deon bush,Miami (FL),FS,72.38,199,4.64,17.0,36.0,123.0,,,Y
+2016,tevin carter,Utah,SS,73.25,218,,19.0,,,,,N
+2016,sean davis,Maryland,FS,73.0,201,4.46,21.0,37.5,126.0,3.97,6.64,Y
+2016,kj dillon,West Virginia,SS,72.38,210,4.53,11.0,,121.0,,,Y
+2016,kavon frazier,Central Michigan,FS,71.88,217,,18.0,,,,,Y
+2016,tj green,Clemson,FS,74.5,209,4.34,13.0,35.5,129.0,,,Y
+2016,deandre houstoncarson,William & Mary (VA),FS,72.75,201,4.54,13.0,32.5,115.0,4.28,7.15,Y
+2016,jayron kearse,Clemson,SS,76.0,216,4.62,16.0,31.5,124.0,,7.06,Y
+2016,miles killebrew,Southern Utah,SS,73.88,217,4.65,22.0,38.0,127.0,4.18,6.93,Y
+2016,derrick kindred,Texas Christian,SS,70.0,207,4.5,,37.5,123.0,4.29,7.05,Y
+2016,jordan lomax,Iowa,FS,69.88,202,4.75,8.0,36.0,120.0,4.15,7.18,N
+2016,jalen mills,Louisiana State,FS,72.0,191,4.61,16.0,37.0,123.0,4.0,6.86,Y
+2016,keanu neal,Florida,FS,72.0,211,4.62,17.0,38.0,132.0,4.38,7.09,Y
+2016,tyvis powell,Ohio State,FS,74.75,211,4.46,15.0,34.5,120.0,4.25,7.03,N
+2016,jalen ramsey,Florida State,FS,73.25,209,4.41,14.0,41.5,135.0,4.18,6.94,Y
+2016,elijah shumate,Notre Dame,SS,71.0,216,4.58,18.0,33.0,119.0,4.51,,N
+2016,justin simmons,Boston College,FS,74.38,202,4.61,16.0,40.0,126.0,3.85,6.58,Y
+2016,aj stamps,Kentucky,FS,70.88,193,4.79,15.0,33.0,115.0,4.25,7.17,N
+2016,darian thompson,Boise State,FS,73.0,208,4.69,12.0,32.5,118.0,4.33,7.26,Y
+2016,brandon williams,Texas A&M,FS,71.38,197,4.37,18.0,30.5,118.0,4.19,6.85,Y
+2017,jamal adams,Louisiana State,SS,71.63,214,4.56,18.0,31.5,120.0,4.13,6.96,Y
+2017,budda baker,Washington,FS,69.63,195,4.45,15.0,32.5,115.0,4.08,6.76,Y
+2017,jamal carter,Miami (FL),SS,72.63,218,4.64,19.0,35.0,122.0,4.28,,N
+2017,justin evans,Texas A&M,SS,72.0,199,,14.0,,,,,Y
+2017,rudy ford,Auburn,FS,71.13,205,,20.0,,,4.21,,Y
+2017,nate gerry,Nebraska,SS,73.88,218,4.58,17.0,30.5,122.0,,,Y
+2017,josh harveyclemons,Louisville,FS,76.13,217,,12.0,31.5,121.0,,,Y
+2017,delano hill,Michigan,SS,72.63,216,4.47,17.0,33.5,115.0,4.27,6.96,Y
+2017,eddie jackson,Alabama,FS,72.0,201,,10.0,,,4.2,,Y
+2017,lorenzo jerome,St. Francis (PA),SS,70.5,204,4.7,11.0,,,4.68,7.63,N
+2017,jadar johnson,Clemson,FS,72.5,206,4.6,19.0,33.0,119.0,4.2,6.9,N
+2017,john johnson,Boston College,FS,72.63,208,4.61,14.0,37.0,119.0,4.18,6.72,Y
+2017,josh jones,North Carolina State,FS,73.25,220,4.41,20.0,37.5,132.0,4.27,,Y
+2017,william likely,Maryland,FS,67.13,180,,15.0,,,,,N
+2017,shalom luani,Washington State,SS,71.38,202,4.55,12.0,31.0,116.0,4.21,6.87,Y
+2017,marcus maye,Florida,FS,71.63,210,,,,,4.12,,Y
+2017,obi melifonwu,Connecticut,FS,76.0,224,4.4,17.0,44.0,141.0,,,Y
+2017,montae nicholson,Michigan State,SS,73.63,212,4.42,,35.0,125.0,4.19,,Y
+2017,jordan sterns,Oklahoma State,SS,71.0,196,,,,,4.2,,N
+2017,tedric thompson,Colorado,FS,71.75,204,4.6,17.0,32.5,117.0,4.36,7.11,Y
+2017,damarius travis,Minnesota,SS,72.75,206,,13.0,32.5,115.0,4.28,7.08,N
+2017,michael tyson,Cincinnati,SS,72.88,204,4.56,17.0,33.0,118.0,,,Y
+2018,marcus allen,Penn State,FS,74.0,202,,15.0,37.0,127.0,4.32,,Y
+2018,troy apke,Penn State,SS,74.0,198,4.34,16.0,41.0,131.0,4.03,6.56,Y
+2018,jessie bates,Wake Forest,FS,74.0,195,4.5,,35.5,117.0,4.26,6.78,Y
+2018,quin blanding,Virginia,FS,74.0,215,4.63,,31.5,122.0,,,N
+2018,sean chandler,Temple,FS,72.0,190,4.65,16.0,34.5,119.0,4.62,,N
+2018,dane cruikshank,Arizona,SS,73.0,206,4.41,25.0,38.5,121.0,4.24,6.89,Y
+2018,terrell edmunds,Virginia Tech,SS,74.0,220,4.47,,41.5,134.0,,,Y
+2018,deshon elliott,Texas,SS,74.0,205,4.58,15.0,36.0,121.0,,,Y
+2018,tre flowers,Oklahoma State,SS,75.0,200,4.45,18.0,34.5,122.0,,,Y
+2018,rashaan gaulden,Tennessee,FS,73.0,193,4.61,8.0,30.0,119.0,4.33,7.16,Y
+2018,marcell harris,Florida,SS,72.0,208,,16.0,,,,,Y
+2018,ronnie harrison,Alabama,SS,75.0,214,,,34.0,120.0,,,Y
+2018,godwin igwebuike,Northwestern,FS,72.0,205,4.44,19.0,35.5,128.0,4.12,6.56,N
+2018,natrell jamerson,Wisconsin,FS,72.0,198,4.4,25.0,35.5,120.0,,,Y
+2018,derwin james,Florida State,SS,75.0,215,4.47,21.0,40.0,132.0,,,Y
+2018,joshua kalu,Nebraska,FS,73.0,195,4.58,17.0,41.5,134.0,,,N
+2018,kameron kelly,San Diego State,FS,74.0,200,4.66,9.0,33.0,120.0,4.28,6.94,N
+2018,siran neal,Jacksonville State (AL),SS,72.0,199,4.56,17.0,40.5,122.0,4.28,7.0,Y
+2018,max redfield,Indiana (PA),SS,73.0,205,4.69,15.0,,,,,N
+2018,justin reid,Stanford,FS,73.0,204,4.4,16.0,36.5,128.0,4.15,6.65,Y
+2018,stephen roberts,Auburn,FS,71.0,189,4.53,,34.0,121.0,,,N
+2018,domincik sanders,Georgia,FS,72.0,193,,14.0,,,,,N
+2018,van smith,Clemson,FS,71.0,185,4.61,,29.5,,,,N
+2018,trey walker,Louisiana-Lafayette,SS,74.0,200,4.51,14.0,33.0,119.0,4.28,7.0,N
+2018,armani watts,Texas A&M,FS,71.0,205,,13.0,35.0,120.0,4.37,7.25,Y
+2018,damon webb,Ohio State,SS,71.0,195,4.62,17.0,,,,,N
+2018,kyzir white,West Virginia,SS,74.0,216,,21.0,35.5,113.0,,,Y
+2018,jordan whitehead,Pittsburgh,FS,71.0,195,,21.0,,,,,Y
